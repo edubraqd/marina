@@ -1002,15 +1002,65 @@ if ($hasExercises) {
       var completeBtn = document.getElementById('btn-complete-training');
       if (completeBtn) {
         completeBtn.addEventListener('click', function () {
-          var openSheet = document.querySelector('.sheet-body.is-open');
-          var allBtns = openSheet ? openSheet.querySelectorAll('.nf-btn-done') : document.querySelectorAll('.nf-btn-done');
-          if (!allBtns.length && !openSheet) allBtns = document.querySelectorAll('.nf-btn-done');
+          // Identifica qual é a ficha alvo. Primeira prioridade: a que estiver aberta.
+          var activeSheet = document.querySelector('.sheet-body.is-open');
 
-          var allDone = allBtns.length > 0 && Array.from(allBtns).every(function (b) { return b.classList.contains('is-active'); });
-          if (!allDone) {
-            alert('CUIDADO: Você precisa marcar todos os exercícios da ficha aberta como feitos antes de concluir o treino.');
+          // Se nenhuma estiver aberta visualmente, busca a primeira ficha que possua pelo menos 1 exercício marcado como feito.
+          if (!activeSheet) {
+            var sheets = document.querySelectorAll('.sheet-body');
+            for (var i = 0; i < sheets.length; i++) {
+              if (sheets[i].querySelectorAll('.nf-btn-done.is-active').length > 0) {
+                activeSheet = sheets[i];
+                break;
+              }
+            }
+          }
+
+          // Se ainda não encontrou (nenhuma aberta e nenhuma com marcações), pega a primeira ficha da página.
+          if (!activeSheet) {
+            activeSheet = document.querySelector('.sheet-body');
+          }
+
+          // Se a página não tiver nenhuma ficha, ignora.
+          if (!activeSheet) return;
+
+          // Extrair o nome da ficha ativa para dar contexto na mensagem
+          var sheetTitleElement = activeSheet.previousElementSibling.querySelector('h5');
+          var sheetTitle = sheetTitleElement ? sheetTitleElement.textContent.trim() : 'a Ficha';
+
+          var allBtns = activeSheet.querySelectorAll('.nf-btn-done');
+          var doneBtns = activeSheet.querySelectorAll('.nf-btn-done.is-active');
+          var total = allBtns.length;
+          var doneCount = doneBtns.length;
+          var missingCount = total - doneCount;
+
+          if (missingCount > 0) {
+            // Interação guiada: se a ficha não estava aberta, vamos abri-la para o usuário ver
+            var sheetToggleBtn = activeSheet.previousElementSibling;
+            if (!activeSheet.classList.contains('is-open') && sheetToggleBtn) {
+              sheetToggleBtn.click();
+            }
+
+            // Msg contextual
+            var msg = "";
+            if (doneCount === 0) {
+              msg = 'Você ainda não marcou nenhum exercício da ' + sheetTitle + '.';
+            } else {
+              msg = 'Você ainda não marcou todos os exercícios da ' + sheetTitle + '. ' +
+                (missingCount === 1 ? 'Falta 1 exercício' : 'Faltam ' + missingCount + ' exercícios') + ' para concluir esta ficha.';
+            }
+
+            alert(msg);
+
+            // Rolar suavemente até o primeiro botão não marcado
+            var firstMissing = Array.from(allBtns).find(btn => !btn.classList.contains('is-active'));
+            if (firstMissing) {
+              firstMissing.scrollIntoView({ behavior: 'smooth', block: 'center' });
+            }
+
             return;
           }
+
           completeBtn.disabled = true;
           completeBtn.innerHTML = 'Registrando... <i class="ti-reload"></i>';
           var completeUserEmail = completeBtn.getAttribute('data-user-email') || '';
@@ -1035,6 +1085,13 @@ if ($hasExercises) {
                 });
                 persistDone();
                 renderCompletionCount(data.count || 0);
+
+                // UX: Fecha a ficha concluída
+                var sheetToggleBtn = activeSheet.previousElementSibling;
+                if (activeSheet.classList.contains('is-open') && sheetToggleBtn) {
+                  sheetToggleBtn.click();
+                }
+
                 alert('TREINO CONCLUÍDO! EXCELENTE TRABALHO! 🦾');
               } else { alert('Erro ao registrar. Tente novamente.'); }
             })

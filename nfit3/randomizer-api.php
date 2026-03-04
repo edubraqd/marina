@@ -22,12 +22,15 @@ if (!empty($_GET['batch'])) {
     $groups = array_unique(array_filter(array_map('trim', explode(',', $_GET['batch']))));
     $result = [];
 
+    $isBw = !empty($_GET['bw']) && $_GET['bw'] == '1';
+    $bwFilter = $isBw ? " AND nome_exercicio LIKE '%peso corporal%'" : "";
+
     if (!empty($groups)) {
         $queries = [];
         $types = '';
         $params = [];
         foreach ($groups as $g) {
-            $queries[] = "(SELECT ? AS requested_group, nome_exercicio AS name, link AS url FROM randomizer_exercicios WHERE grupo_muscular = ? ORDER BY RAND() LIMIT 1)";
+            $queries[] = "(SELECT ? AS requested_group, nome_exercicio AS name, link AS url FROM randomizer_exercicios WHERE grupo_muscular = ? {$bwFilter} ORDER BY RAND() LIMIT 1)";
             $types .= 'ss';
             $params[] = $g;
             $params[] = $g;
@@ -66,7 +69,10 @@ if (!$group) {
     exit;
 }
 
-$sql = "SELECT nome_exercicio AS name, link AS url FROM randomizer_exercicios WHERE grupo_muscular = ? ORDER BY RAND() LIMIT 1";
+$isBw = !empty($_GET['bw']) && $_GET['bw'] == '1';
+$bwFilter = $isBw ? " AND nome_exercicio LIKE '%peso corporal%'" : "";
+
+$sql = "SELECT nome_exercicio AS name, link AS url FROM randomizer_exercicios WHERE grupo_muscular = ? {$bwFilter} ORDER BY RAND() LIMIT 1";
 $stmt = $conn->prepare($sql);
 $stmt->bind_param('s', $group);
 $stmt->execute();

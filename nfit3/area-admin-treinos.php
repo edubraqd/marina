@@ -568,6 +568,14 @@ unset($sheet);
                     formulário abaixo.</small>
                 </div>
                 <div class="d-flex gap-2 flex-wrap" id="program-selector">
+                  <div class="form-check me-2 d-flex align-items-center" style="margin-bottom:0;">
+                    <input class="form-check-input" type="checkbox" id="rand-bw-checkbox" value="1"
+                      style="margin-top:0; border-color:rgba(255,122,0,0.5);">
+                    <label class="form-check-label ms-2" for="rand-bw-checkbox"
+                      style="color:rgba(255,255,255,0.8);font-size:13px;cursor:pointer;">
+                      Somente Peso Corporal
+                    </label>
+                  </div>
                   <button type="button" class="btn-prog" data-prog="geral">Geral</button>
                   <button type="button" class="btn-prog" data-prog="ab">A / B</button>
                   <button type="button" class="btn-prog" data-prog="abc">A / B / C</button>
@@ -770,7 +778,8 @@ unset($sheet);
                     btnTrocar.onclick = function () {
                       var g = row.dataset.group;
                       btnTrocar.textContent = '...';
-                      fetch('randomizer-api.php?group=' + encodeURIComponent(g))
+                      var bwParam = document.getElementById('rand-bw-checkbox') && document.getElementById('rand-bw-checkbox').checked ? '&bw=1' : '';
+                      fetch('randomizer-api.php?group=' + encodeURIComponent(g) + bwParam)
                         .then(r => r.json())
                         .then(data => {
                           row.querySelector('.rand-exercise-name').value = data.name || '';
@@ -810,7 +819,8 @@ unset($sheet);
                   });
 
                   // AJAX list 
-                  fetch('randomizer-api.php?batch=' + encodeURIComponent(neededGroups.join(',')))
+                  var bwParam = document.getElementById('rand-bw-checkbox') && document.getElementById('rand-bw-checkbox').checked ? '&bw=1' : '';
+                  fetch('randomizer-api.php?batch=' + encodeURIComponent(neededGroups.join(',')) + bwParam)
                     .then(r => r.json())
                     .then(data => {
                       container.innerHTML = '';
