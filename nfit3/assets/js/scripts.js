@@ -1,4 +1,4 @@
-/*
+﻿/*
 Author       : theme_ocean
 Template Name: Cybal - Cyber Security HTML Template
 Version      : 1.0
@@ -84,57 +84,43 @@ Version      : 1.0
 	
 
 	}); 	
-	
-	/*START WOW ANIMATION JS*/
+
+	 /*START WOW ANIMATION JS*/
 	  new WOW().init();	
 	/*END WOW ANIMATION JS*/	
 
 
-
-	 /*
-     * ----------------------------------------------------------------------------------------
-     *  Lenis JS
-     * ----------------------------------------------------------------------------------------
-     */
-    const lenis = new Lenis()
-
-
-    lenis.on('scroll', ScrollTrigger.update)
-
-    gsap.ticker.add((time) => {
-        lenis.raf(time * 1000)
-    })
-
-    gsap.ticker.lagSmoothing(0)
-
-
-				
 })(jQuery);
 
 /*START MARQUEE JS*/
+(function () {
+	const marqueeEl = document.getElementById("supermarquee1");
+	if (!window.SuperMarquee || !marqueeEl) {
+		return;
+	}
+
 	let lastTime = (new Date()).getTime(),
 		currentTime = 0,
-		counter = 0;
+		delta = 0;
 
-		const myScroller1 = new SuperMarquee(
-		document.getElementById("supermarquee1"),
-		{
-			content: "Plano alimentar com substituições&nbsp;|&nbsp;Treino personalizado (com vídeos)&nbsp;|&nbsp;Ajustes mensais&nbsp;|&nbsp;Suporte via WhatsApp |"
-		}
-		);
-
-
+		const marquee = new SuperMarquee(marqueeEl, {
+		content: "Plano alimentar com substituições inteligentes | Treino personalizado com vídeos | Suporte via WhatsApp | Ajustes mensais"
+	});
+	window.myScroller4 = marquee;
 
 	function loop() {
-		window.requestAnimationFrame( loop );
-		currentTime = ( new Date() ).getTime();
-		delta = ( currentTime - lastTime ) / 9000;
-		myScroller4.setPerspective( "{ \"rotateY\" : " + 30 * Math.sin( delta ) + "}" );
+		window.requestAnimationFrame(loop);
+		currentTime = (new Date()).getTime();
+		delta = (currentTime - lastTime) / 9000;
+		marquee.setPerspective("{ \"rotateY\" : " + 30 * Math.sin(delta) + "}");
 	}
 
 	loop();
+})();
 /*END MARQUEE JS*/
 
 
   
+
+
 

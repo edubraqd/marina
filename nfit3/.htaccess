@@ -1,6 +1,18 @@
  
-SetEnv MP_ACCESS_TOKEN "SEU_ACCESS_TOKEN_PRODUCAO"
-SetEnv MP_WEBHOOK_SECRET "SUA_WEBHOOK_SECRET"
+SetEnv MP_ACCESS_TOKEN "APP_USR-6469628701815274-011221-408979bfda4fcda01945bf2ab7a0d435-1147308448"
+SetEnv MP_PUBLIC_KEY "APP_USR-3d15c0ca-ce26-439f-acc6-7fb39366878b"
+SetEnv MP_WEBHOOK_SECRET "970737ad330927ef3ad1d4958f6adc411a73c7cc9bfcc1f119084cbbf6cd1b0d"
+SetEnv MP_CLIENT_ID "6469628701815274"
+SetEnv MP_CLIENT_SECRET "N47x6JrWUeR71BM4KSV79OZ6lfyhmGii"
+SetEnv APP_URL "https://nutremfit.com.br"
+SetEnv META_PIXEL_ID "1815210352491615"
+SetEnv NF_ADMIN_EMAIL "admin@nutremfit.com"
+SetEnv NF_ADMIN_PASS "Admin123!"
+SetEnv ADMIN_NOTIFICATION_EMAIL "nutremfit@gmail.com"
+SetEnv MAIL_FROM "naoresponda@nutremfit.com.br"
+SetEnv MAIL_FROM_NAME "NutremFit"
+SetEnv MAIL_REPLY_TO "suporte@nutremfit.com.br"
+SetEnv MAIL_ENVELOPE_FROM "naoresponda@nutremfit.com.br"
 
  
 Options -Indexes
@@ -9,7 +21,33 @@ Options -Indexes
   Header always set X-Frame-Options "DENY"
   Header always set Referrer-Policy "no-referrer-when-downgrade"
   # Ajuste a CSP conforme seus assets (CDNs, etc.). Se der conflito, remova/edite.
-  Header always set Content-Security-Policy "default-src 'self'; img-src * data:; style-src 'self' 'unsafe-inline'; script-src 'self' 'unsafe-inline'; connect-src *"
+  Header always set Content-Security-Policy "default-src 'self'; img-src * data:; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; script-src 'self' 'unsafe-inline' https://sdk.mercadopago.com https://http2.mlstatic.com https://connect.facebook.net; frame-src 'self' https://*.mercadolibre.com https://*.mercadopago.com; connect-src *; font-src 'self' data: https://http2.mlstatic.com https://fonts.gstatic.com"
+</IfModule>
+
+# Cache e compressão para assets estáticos (melhora carregamento mobile)
+<IfModule mod_headers.c>
+  <FilesMatch "\.(?:jpg|jpeg|png|gif|webp|svg|css|js|woff2?|ttf|eot)$">
+    Header set Cache-Control "public, max-age=604800, stale-while-revalidate=86400"
+  </FilesMatch>
+</IfModule>
+
+<IfModule mod_expires.c>
+  ExpiresActive On
+  ExpiresByType text/css "access plus 7 days"
+  ExpiresByType application/javascript "access plus 7 days"
+  ExpiresByType text/javascript "access plus 7 days"
+  ExpiresByType image/jpeg "access plus 30 days"
+  ExpiresByType image/png "access plus 30 days"
+  ExpiresByType image/webp "access plus 30 days"
+  ExpiresByType image/svg+xml "access plus 30 days"
+  ExpiresByType font/woff2 "access plus 30 days"
+  ExpiresByType font/woff "access plus 30 days"
+  ExpiresByType application/font-woff2 "access plus 30 days"
+  ExpiresByType application/vnd.ms-fontobject "access plus 30 days"
+</IfModule>
+
+<IfModule mod_deflate.c>
+  AddOutputFilterByType DEFLATE text/html text/plain text/css text/javascript application/javascript application/json image/svg+xml
 </IfModule>
 
  
@@ -20,12 +58,27 @@ Options -Indexes
  
 <IfModule mod_rewrite.c>
   RewriteEngine On
+  RewriteBase /
 
- 
-  RewriteRule ^webhook-mp/?$ webhook-mp.php [L,NC]
+  # Corrige links antigos que incluem o caminho de servidor na URL pública
+  RewriteRule ^home2/edua0932/public_html/(.*)$ /$1 [R=301,L]
 
- 
+  # Responder 405 para requisições não-POST no webhook
   RewriteCond %{REQUEST_URI} ^/webhook-mp/?$ [NC]
   RewriteCond %{REQUEST_METHOD} !POST
   RewriteRule ^ - [R=405,L]
+
+  # Homologação: manter URLs .php (a regra abaixo causava /nfit3/nfit3/... em subpasta)
+  # Se quiser voltar com URL sem extensão depois, reative com regra ajustada ao caminho final.
+  # RewriteCond %{REQUEST_URI} !^/webhook-mp\.php$ [NC]
+  # RewriteCond %{THE_REQUEST} \s/([^.]+)\.php[\s?]
+  # RewriteRule ^ %1 [R=301,L,NE]
+
+  # Mapear URLs sem extensão para arquivos .php existentes
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteCond %{REQUEST_FILENAME}\.php -f
+  RewriteRule ^(.+)$ $1.php [L,QSA]
+
+  RewriteRule ^webhook-mp/?$ webhook-mp.php [L,NC]
 </IfModule>

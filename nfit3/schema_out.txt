@@ -1,0 +1,30 @@
+USERS TABLE SCHEMA:
+CREATE TABLE `users` (
+  `id` bigint(20) unsigned NOT NULL AUTO_INCREMENT,
+  `name` varchar(120) NOT NULL,
+  `email` varchar(160) NOT NULL,
+  `phone_whatsapp` varchar(30) DEFAULT NULL,
+  `plan` enum('essencial','performance','vip') NOT NULL DEFAULT 'essencial',
+  `role` enum('student','admin') NOT NULL DEFAULT 'student',
+  `password_hash` varchar(255) NOT NULL,
+  `goal` text DEFAULT NULL,
+  `preferences` longtext CHARACTER SET utf8mb4 COLLATE utf8mb4_bin DEFAULT NULL CHECK (json_valid(`preferences`)),
+  `created_at` datetime NOT NULL DEFAULT current_timestamp(),
+  `updated_at` datetime NOT NULL DEFAULT current_timestamp() ON UPDATE current_timestamp(),
+  `last_login_at` datetime DEFAULT NULL,
+  `phone` varchar(30) DEFAULT NULL,
+  PRIMARY KEY (`id`),
+  UNIQUE KEY `uniq_users_email` (`email`),
+  KEY `idx_users_role` (`role`),
+  KEY `idx_users_plan` (`plan`)
+) ENGINE=InnoDB AUTO_INCREMENT=30 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci
+
+RANDOMIZER_EXERCICIOS TABLE SCHEMA:
+CREATE TABLE `randomizer_exercicios` (
+  `id` int(11) NOT NULL,
+  `grupo_muscular` varchar(100) NOT NULL,
+  `nome_exercicio` varchar(255) NOT NULL,
+  `link` varchar(300) DEFAULT '',
+  KEY `idx_grupo_muscular` (`grupo_muscular`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci
+

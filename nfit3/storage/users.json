@@ -1,0 +1,20 @@
+[
+  {
+    "email": "admin@nutremfit.com",
+    "name": "Marina Admin",
+    "plan": "vip",
+    "role": "admin",
+    "password_hash": "$2y$10$gVe1wX46B/kEsEoeKZTTZuX63x0zDVRX0KW5d8ihbdN2Y9YD0POn6",
+    "created_at": "2025-01-01T12:00:00+00:00",
+    "last_login_at": null
+  },
+  {
+    "email": "demo@nutremfit.com",
+    "name": "Aluno Demo",
+    "plan": "performance",
+    "role": "student",
+    "password_hash": "$2y$10$KK.wdpnBjGIXDX3c6dQH8us/BJOdp8fc1wZwix04NjETL.12cK/Ta",
+    "created_at": "2025-01-05T09:00:00+00:00",
+    "last_login_at": null
+  }
+]

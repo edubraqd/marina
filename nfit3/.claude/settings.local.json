@@ -1,0 +1,25 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(wc:*)",
+      "Bash(grep:*)",
+      "Bash(curl:*)",
+      "Bash(unzip:*)",
+      "Bash(/c/xampp/php/php:*)",
+      "Bash(tasklist:*)",
+      "Bash(bash /c/xampp/htdocs/nfit3/test_routes.sh)",
+      "Bash(# Check what PHP warnings are appearing curl -s \"\"http://localhost/nfit3/\"\")",
+      "Bash(# Check what the homepage actually outputs for warnings curl -s \"\"http://localhost/nfit3/\"\")",
+      "Bash(bash /c/xampp/htdocs/nfit3/test_routes_v2.sh)",
+      "Bash(# Get full error from the webhook curl -s \"\"http://localhost/nfit3/webhook-mp\"\")",
+      "Bash(# Check which FA version/classes are used grep -r \"\"fa fa-\\\\|fas fa-\\\\|far fa-\\\\|fa-solid\\\\|fa-regular\"\" /c/xampp/htdocs/nfit3/area-login.php /c/xampp/htdocs/nfit3/area.php /c/xampp/htdocs/nfit3/partials/header.php)",
+      "Bash(# Check actual CSS file for font-awesome version head -3 /c/xampp/htdocs/nfit3/assets/fonts/fontawesome.min.css)",
+      "Bash(then)",
+      "Bash(printf:*)",
+      "Bash(else)",
+      "Bash(printf \"FAIL | %s | %s\\\\n\" \"$f\" \"$result\")",
+      "Bash(fi)",
+      "Bash(done)"
+    ]
+  }
+}

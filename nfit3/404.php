@@ -1,7 +1,6 @@
 <!DOCTYPE html>
-<html lang="en">
-
-<?php $title='NutremFit'?>
+<html lang="pt-BR">
+<?php $title='NutremFit | Página não encontrada'?>
 <?php include './partials/head.php'?>
 	
     <body data-spy="scroll" data-offset="80">
@@ -16,7 +15,7 @@
 					<div class="section-top-title wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.3s" data-wow-offset="0">
 						<h1>404</h1>
 						<ul>
-							<li><a href="index.php">Home</a></li>
+							<li><a href="/">Início</a></li>
 							<li> / 404</li>
 						</ul>
 					</div><!-- //.HERO-TEXT -->
@@ -31,23 +30,23 @@
 			<div class="row">
 			  <div class="col-lg-12 col-sm-12 col-xs-12 text-center">
 					<div class="error_page">
-						<img src="assets/img/404.svg" class="img-fluid" alt="404 error" />
-						<h2>Oops! Page not found</h2>
-						<p>Hmm. We’re having trouble finding that site. Try again later or Check your network connection.</p>
+						<img src="assets/img/404.svg" class="img-fluid" alt="404" />
+						<h2>Ops! Página não encontrada</h2>
+						<p>A página que você procura pode ter sido movida ou não existe mais. Verifique o endereço ou volte para a página inicial.</p>
 						<div class="home_btn">
-							<a href="index.php" class="btn_one">Back to Home</a>
+							<a href="/" class="btn_one">Voltar ao início</a>
 						</div>	
 					</div>
-			  </div><!--- END COL -->				  
+			  </div><!--- END COL -->		  
 			</div><!--- END ROW -->
 		</div><!--- END CONTAINER -->
 	</section>
 	<!-- END 404 -->		
-		
+	
 	<!--<< Footer Section Start >>-->
 	<?php include './partials/footer.php'?>
 
 	<!--<< All JS Plugins >>-->
-	<?php include './partials/script.php'?>		
+	<?php include './partials/script.php'?>	
     </body>
 </html>

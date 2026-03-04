@@ -1,0 +1,78 @@
+<?php
+
+declare(strict_types=1);
+
+/**
+ * Biblioteca base de exercícios com links em vídeo.
+ *
+ * @return array<int,array<string,string>>
+ */
+function training_library_default(): array
+{
+    return [
+        ['name' => 'Desenvolvimento Militar com Barra', 'video_url' => 'https://musclewiki.com/pt-br/exercise/barbell-overhead-press'],
+        ['name' => 'Desenvolvimento de ombros com Halteres Sentado', 'video_url' => 'https://musclewiki.com/pt-br/exercise/dumbbell-seated-overhead-press'],
+        ['name' => 'Abdução de ombro unilateral no cross', 'video_url' => 'https://musclewiki.com/pt-br/exercise/cable-low-single-arm-lateral-raise'],
+        ['name' => 'Remada Alta com Barra', 'video_url' => 'https://musclewiki.com/pt-br/exercise/barbell-upright-row'],
+        ['name' => 'Flexão de ombro com Halteres', 'video_url' => 'https://musclewiki.com/pt-br/exercise/dumbbell-front-raise'],
+        ['name' => 'Flexão Pike na caixa', 'video_url' => 'https://musclewiki.com/pt-br/exercise/elevated-pike-press'],
+        ['name' => 'Desenvolvimento de ombros máquina', 'video_url' => 'https://musclewiki.com/pt-br/exercise/machine-overhand-overhead-press'],
+        ['name' => 'Abdução de ombros com Halteres', 'video_url' => 'https://musclewiki.com/pt-br/exercise/dumbbell-lateral-raise'],
+        ['name' => 'Abdução de ombros Completa com Halteres', 'video_url' => 'https://musclewiki.com/pt-br/exercise/dumbbell-full-lateral-raise'],
+        ['name' => 'Desenvolvimento de ombros máquina pegada neutra', 'video_url' => 'https://musclewiki.com/pt-br/exercise/machine-neutral-overhead-press'],
+        ['name' => 'Flexão de ombro sentado a 75° com halteres e pegada neutra', 'video_url' => 'https://musclewiki.com/pt-br/exercise/dumbbell-incline-front-raise'],
+        ['name' => 'Remada Alta no cross com barra', 'video_url' => 'https://musclewiki.com/pt-br/exercise/cable-upright-row'],
+        ['name' => 'Flexão de ombro com elástico', 'video_url' => 'https://musclewiki.com/pt-br/exercise/band-front-raise'],
+        ['name' => 'Flexão de ombro com barra', 'video_url' => 'https://musclewiki.com/pt-br/exercise/barbell-front-raise'],
+        ['name' => 'Supino máquina sentado', 'video_url' => 'https://musclewiki.com/pt-br/exercise/machine-front-military-press'],
+        ['name' => 'Flexão de ombro com kettlebell', 'video_url' => 'https://musclewiki.com/pt-br/exercise/kettlebell-front-raise'],
+        ['name' => 'Desenvolvimento de ombro com halteres sentado (pegada neutra)', 'video_url' => 'https://musclewiki.com/pt-br/exercise/dumbbell-neutral-seated-overhead-press'],
+        ['name' => 'Desenvolvimento Arnold Sentado com Halteres', 'video_url' => 'https://musclewiki.com/pt-br/exercise/dumbbell-seated-arnold-press'],
+        ['name' => 'Desenvolvimento Arnold em pé com halteres', 'video_url' => 'https://musclewiki.com/pt-br/exercise/dumbbell-arnold-press'],
+        ['name' => 'Desenvolvimento de ombro com Halteres (Pegada Neutra)', 'video_url' => 'https://musclewiki.com/pt-br/exercise/dumbbell-neutral-overhead-press#google_vignette'],
+        ['name' => 'Desenvolvimento de ombro com halteres', 'video_url' => 'https://musclewiki.com/pt-br/exercise/dumbbell-overhead-press'],
+        ['name' => 'Rosca + desenvolvimento militar com anilha', 'video_url' => 'https://musclewiki.com/pt-br/exercise/plate-curl-to-overhead-press'],
+        ['name' => 'Rosca + desenvolvimento militar + tríceps francês com anilha', 'video_url' => 'https://musclewiki.com/pt-br/exercise/plate-curl-to-overhead-press-to-tricep-extension'],
+        ['name' => 'Flexão de ombro com Anilha', 'video_url' => 'https://musclewiki.com/pt-br/exercise/plate-front-raise'],
+        ['name' => 'Halo com anilha', 'video_url' => 'https://musclewiki.com/pt-br/exercise/plate-halo'],
+        ['name' => 'Abdução de ombro completa com anilha', 'video_url' => 'https://musclewiki.com/pt-br/exercise/plate-full-lateral-raise'],
+        ['name' => 'Abdução de ombro com anilha', 'video_url' => 'https://musclewiki.com/pt-br/exercise/plate-lateral-raise'],
+        ['name' => 'Remada Alta com Halteres', 'video_url' => 'https://musclewiki.com/pt-br/exercise/dumbbell-upright-row'],
+        ['name' => 'Desenvolvimento de ombro unilateral na ladmine semi ajoelhado', 'video_url' => 'https://musclewiki.com/pt-br/exercise/landmine-half-kneeling-single-arm-overhead-press'],
+        ['name' => 'Desenvolvimento de ombros Ajoelhado na Landmine', 'video_url' => 'https://musclewiki.com/pt-br/exercise/landmine-kneeling-overhead-press'],
+        ['name' => 'Desenvolvimento Militar na Landmine', 'video_url' => 'https://musclewiki.com/pt-br/exercise/landmine-overhead-press'],
+        ['name' => 'Desenvolvimento Militar Sentado na Landmine', 'video_url' => 'https://musclewiki.com/pt-br/exercise/landmine-seated-overhead-press'],
+        ['name' => 'Abdução de ombro Sentado', 'video_url' => 'https://musclewiki.com/pt-br/exercise/seated-lateral-raise'],
+        ['name' => 'Kettlebell swing completo', 'video_url' => 'https://musclewiki.com/pt-br/exercise/kettlebell-full-swing'],
+        ['name' => 'Abdução de ombro cruzada no cross (polia baixa)', 'video_url' => 'https://musclewiki.com/pt-br/exercise/cable-low-bilateral-lateral-raise'],
+        ['name' => 'Flexão de ombro com Barra no no cross', 'video_url' => 'https://musclewiki.com/pt-br/exercise/cable-bar-front-raise'],
+        ['name' => 'Abdução de ombro Unilateral no cross com corda', 'video_url' => 'https://musclewiki.com/pt-br/exercise/cable-rope-single-arm-low-lateral-raise'],
+        ['name' => 'Flexão de ombro com Corda no cross', 'video_url' => 'https://musclewiki.com/pt-br/exercise/cable-rope-front-raise'],
+        ['name' => 'Flexão de ombro Completa com Barra', 'video_url' => 'https://musclewiki.com/pt-br/exercise/barbell-full-front-raise'],
+        ['name' => 'Rotação Interna com Halteres', 'video_url' => 'https://musclewiki.com/pt-br/exercise/dumbbell-internal-rotation'],
+        ['name' => 'Abdução de ombro na Máquina em Pé', 'video_url' => 'https://musclewiki.com/pt-br/exercise/machine-standing-lateral-raise'],
+        ['name' => 'Desenvolvimento Arnold Alternado com Halteres', 'video_url' => 'https://musclewiki.com/pt-br/exercise/dumbbell-alternating-arnold-press'],
+        ['name' => 'Desenvolvimento Alternado com Halteres', 'video_url' => 'https://musclewiki.com/pt-br/exercise/dumbbell-alternating-overhead-press'],
+        ['name' => 'Desenvolvimento Alternado com Halteres (Pegada Neutra)', 'video_url' => 'https://musclewiki.com/pt-br/exercise/dumbbell-neutral-alternating-overhead-press'],
+        ['name' => 'Desenvolvimento Arnold Unilateral com Halteres', 'video_url' => 'https://musclewiki.com/pt-br/exercise/dumbbell-single-arm-arnold-press'],
+        ['name' => 'Desenvolvimento Unilateral com Halter em Pegada Neutra', 'video_url' => 'https://musclewiki.com/pt-br/exercise/dumbbell-single-arm-neutral-overhead-press'],
+        ['name' => 'Desenvolvimento unilateral com halter', 'video_url' => 'https://musclewiki.com/pt-br/exercise/dumbbell-single-arm-overhead-press'],
+        ['name' => 'Driver com anilha', 'video_url' => 'https://musclewiki.com/pt-br/exercise/plate-car-driver'],
+        ['name' => 'Halo com bola medicinal', 'video_url' => 'https://musclewiki.com/pt-br/exercise/halo'],
+        ['name' => 'Desenvolvimento Alternado Com Um Braço No Landmine', 'video_url' => 'https://musclewiki.com/pt-br/exercise/landmine-alternating-single-arm-press'],
+        ['name' => 'Landmine Rotacional — Levantamento para Desenvolvimento', 'video_url' => 'https://musclewiki.com/pt-br/exercise/landmine-rotational-lift-to-press'],
+        ['name' => 'Desenvolvimento Alternado Sentado No Landmine', 'video_url' => 'https://musclewiki.com/pt-br/exercise/landmine-seated-alternating-overhead-press'],
+        ['name' => 'Desenvolvimento Sentado Unilateral com Landmine', 'video_url' => 'https://musclewiki.com/pt-br/exercise/landmine-seated-single-arm-overhead-press'],
+        ['name' => 'Desenvolvimento Unilateral com Landmine', 'video_url' => 'https://musclewiki.com/pt-br/exercise/landmine-single-arm-overhead-press'],
+        ['name' => 'Arremesso Dividido No Landmine', 'video_url' => 'https://musclewiki.com/pt-br/exercise/landmine-split-jerk'],
+        ['name' => 'Flexão Pike no Bosu Ball', 'video_url' => 'https://musclewiki.com/pt-br/exercise/bosu-ball-pike-pushup'],
+        ['name' => 'Kettlebell swing Para Remada Alta', 'video_url' => 'https://musclewiki.com/pt-br/exercise/swing-to-upright-row'],
+        ['name' => 'Abdução de ombro com Corda no no cross (Deltoide Médio)', 'video_url' => 'https://musclewiki.com/pt-br/exercise/cable-rope-mid-lateral-raise'],
+        ['name' => 'Flexão Pike com Peso Corporal', 'video_url' => 'https://musclewiki.com/pt-br/exercise/bodyweight-pike-press'],
+        ['name' => 'Flexão de ombro Completa com Halteres', 'video_url' => 'https://musclewiki.com/pt-br/exercise/dumbbell-full-front-raise'],
+        ['name' => 'Flexão de ombro Completa com Barra', 'video_url' => 'https://musclewiki.com/pt-br/exercise/barbell-seated-full-front-raise'],
+        ['name' => 'Desenvolvimento de ombro semi-ajoelhado', 'video_url' => 'https://musclewiki.com/pt-br/exercise/dumbbell-half-kneeling-overhead-press'],
+        ['name' => 'Elevação de halteres em 6 movimentos', 'video_url' => 'https://musclewiki.com/pt-br/exercise/dumbbell-six-way-lateral-raise'],
+        ['name' => 'Rotação interna de ombro no cross', 'video_url' => 'https://musclewiki.com/pt-br/exercise/cable-internal-rotation'],
+    ];
+}

@@ -1,0 +1,59 @@
+[20-Nov-2025 19:31:34 America/Sao_Paulo] Erro ao conectar ao MySQL: Access denied for user 'edua0932_edu'@'localhost' (using password: YES)
+[22-Nov-2025 09:09:31 America/Sao_Paulo] Erro ao conectar ao MySQL: Access denied for user 'edua0932_edu'@'localhost' (using password: YES)
+[13-Dec-2025 22:26:39 America/Sao_Paulo] Erro ao conectar ao MySQL: Access denied for user 'edua0932_edu'@'localhost' (using password: YES)
+[13-Dec-2025 22:40:00 America/Sao_Paulo] Erro ao conectar ao MySQL: Access denied for user 'edua0932_edu'@'localhost' (using password: YES)
+[13-Dec-2025 22:40:01 America/Sao_Paulo] Erro ao conectar ao MySQL: Access denied for user 'edua0932_edu'@'localhost' (using password: YES)
+[13-Dec-2025 22:40:48 America/Sao_Paulo] PHP Warning:  The use statement with non-compound name 'RuntimeException' has no effect in C:\xampp\htdocs\nfit3\includes\training_store.php on line 5
+[13-Dec-2025 22:40:48 America/Sao_Paulo] PHP Warning:  The use statement with non-compound name 'Throwable' has no effect in C:\xampp\htdocs\nfit3\includes\training_store.php on line 6
+[20-Feb-2026 20:15:35 America/Sao_Paulo] PHP Warning:  The use statement with non-compound name 'RuntimeException' has no effect in C:\xampp\htdocs\nfit3\includes\training_store.php on line 5
+[20-Feb-2026 20:15:35 America/Sao_Paulo] PHP Warning:  The use statement with non-compound name 'Throwable' has no effect in C:\xampp\htdocs\nfit3\includes\training_store.php on line 6
+[20-Feb-2026 20:15:39 America/Sao_Paulo] PHP Warning:  The use statement with non-compound name 'RuntimeException' has no effect in C:\xampp\htdocs\nfit3\includes\training_store.php on line 5
+[20-Feb-2026 20:15:39 America/Sao_Paulo] PHP Warning:  The use statement with non-compound name 'Throwable' has no effect in C:\xampp\htdocs\nfit3\includes\training_store.php on line 6
+[20-Feb-2026 20:15:40 America/Sao_Paulo] PHP Warning:  The use statement with non-compound name 'RuntimeException' has no effect in C:\xampp\htdocs\nfit3\includes\training_store.php on line 5
+[20-Feb-2026 20:15:40 America/Sao_Paulo] PHP Warning:  The use statement with non-compound name 'Throwable' has no effect in C:\xampp\htdocs\nfit3\includes\training_store.php on line 6
+[20-Feb-2026 20:15:44 America/Sao_Paulo] PHP Warning:  The use statement with non-compound name 'RuntimeException' has no effect in C:\xampp\htdocs\nfit3\includes\training_store.php on line 5
+[20-Feb-2026 20:15:44 America/Sao_Paulo] PHP Warning:  The use statement with non-compound name 'Throwable' has no effect in C:\xampp\htdocs\nfit3\includes\training_store.php on line 6
+[20-Feb-2026 20:15:46 America/Sao_Paulo] PHP Warning:  The use statement with non-compound name 'RuntimeException' has no effect in C:\xampp\htdocs\nfit3\includes\training_store.php on line 5
+[20-Feb-2026 20:15:46 America/Sao_Paulo] PHP Warning:  The use statement with non-compound name 'Throwable' has no effect in C:\xampp\htdocs\nfit3\includes\training_store.php on line 6
+[20-Feb-2026 20:18:20 America/Sao_Paulo] PHP Warning:  The use statement with non-compound name 'RuntimeException' has no effect in C:\xampp\htdocs\nfit3\includes\training_store.php on line 5
+[20-Feb-2026 20:18:20 America/Sao_Paulo] PHP Warning:  The use statement with non-compound name 'Throwable' has no effect in C:\xampp\htdocs\nfit3\includes\training_store.php on line 6
+[20-Feb-2026 20:18:22 America/Sao_Paulo] PHP Warning:  The use statement with non-compound name 'RuntimeException' has no effect in C:\xampp\htdocs\nfit3\includes\training_store.php on line 5
+[20-Feb-2026 20:18:22 America/Sao_Paulo] PHP Warning:  The use statement with non-compound name 'Throwable' has no effect in C:\xampp\htdocs\nfit3\includes\training_store.php on line 6
+[20-Feb-2026 20:18:24 America/Sao_Paulo] PHP Warning:  The use statement with non-compound name 'RuntimeException' has no effect in C:\xampp\htdocs\nfit3\includes\training_store.php on line 5
+[20-Feb-2026 20:18:24 America/Sao_Paulo] PHP Warning:  The use statement with non-compound name 'Throwable' has no effect in C:\xampp\htdocs\nfit3\includes\training_store.php on line 6
+[20-Feb-2026 20:18:33 America/Sao_Paulo] PHP Warning:  The use statement with non-compound name 'RuntimeException' has no effect in C:\xampp\htdocs\nfit3\includes\training_store.php on line 5
+[20-Feb-2026 20:18:33 America/Sao_Paulo] PHP Warning:  The use statement with non-compound name 'Throwable' has no effect in C:\xampp\htdocs\nfit3\includes\training_store.php on line 6
+[20-Feb-2026 20:18:34 America/Sao_Paulo] PHP Warning:  The use statement with non-compound name 'RuntimeException' has no effect in C:\xampp\htdocs\nfit3\includes\training_store.php on line 5
+[20-Feb-2026 20:18:34 America/Sao_Paulo] PHP Warning:  The use statement with non-compound name 'Throwable' has no effect in C:\xampp\htdocs\nfit3\includes\training_store.php on line 6
+[20-Feb-2026 20:20:59 America/Sao_Paulo] PHP Warning:  The use statement with non-compound name 'RuntimeException' has no effect in C:\xampp\htdocs\nfit3\includes\training_store.php on line 5
+[20-Feb-2026 20:20:59 America/Sao_Paulo] PHP Warning:  The use statement with non-compound name 'Throwable' has no effect in C:\xampp\htdocs\nfit3\includes\training_store.php on line 6
+[20-Feb-2026 20:21:01 America/Sao_Paulo] PHP Warning:  The use statement with non-compound name 'RuntimeException' has no effect in C:\xampp\htdocs\nfit3\includes\training_store.php on line 5
+[20-Feb-2026 20:21:01 America/Sao_Paulo] PHP Warning:  The use statement with non-compound name 'Throwable' has no effect in C:\xampp\htdocs\nfit3\includes\training_store.php on line 6
+[20-Feb-2026 20:21:03 America/Sao_Paulo] PHP Warning:  The use statement with non-compound name 'RuntimeException' has no effect in C:\xampp\htdocs\nfit3\includes\training_store.php on line 5
+[20-Feb-2026 20:21:03 America/Sao_Paulo] PHP Warning:  The use statement with non-compound name 'Throwable' has no effect in C:\xampp\htdocs\nfit3\includes\training_store.php on line 6
+[20-Feb-2026 20:21:12 America/Sao_Paulo] PHP Warning:  The use statement with non-compound name 'RuntimeException' has no effect in C:\xampp\htdocs\nfit3\includes\training_store.php on line 5
+[20-Feb-2026 20:21:12 America/Sao_Paulo] PHP Warning:  The use statement with non-compound name 'Throwable' has no effect in C:\xampp\htdocs\nfit3\includes\training_store.php on line 6
+[20-Feb-2026 20:21:13 America/Sao_Paulo] PHP Warning:  The use statement with non-compound name 'RuntimeException' has no effect in C:\xampp\htdocs\nfit3\includes\training_store.php on line 5
+[20-Feb-2026 20:21:13 America/Sao_Paulo] PHP Warning:  The use statement with non-compound name 'Throwable' has no effect in C:\xampp\htdocs\nfit3\includes\training_store.php on line 6
+[20-Feb-2026 20:31:19 America/Sao_Paulo] PHP Warning:  The use statement with non-compound name 'RuntimeException' has no effect in C:\xampp\htdocs\nfit3\includes\training_store.php on line 5
+[20-Feb-2026 20:31:19 America/Sao_Paulo] PHP Warning:  The use statement with non-compound name 'Throwable' has no effect in C:\xampp\htdocs\nfit3\includes\training_store.php on line 6
+[20-Feb-2026 20:31:21 America/Sao_Paulo] PHP Warning:  The use statement with non-compound name 'RuntimeException' has no effect in C:\xampp\htdocs\nfit3\includes\training_store.php on line 5
+[20-Feb-2026 20:31:21 America/Sao_Paulo] PHP Warning:  The use statement with non-compound name 'Throwable' has no effect in C:\xampp\htdocs\nfit3\includes\training_store.php on line 6
+[24-Feb-2026 20:14:49 America/Sao_Paulo] PHP Warning:  The use statement with non-compound name 'RuntimeException' has no effect in C:\xampp\htdocs\nfit3\includes\training_store.php on line 5
+[24-Feb-2026 20:14:49 America/Sao_Paulo] PHP Warning:  The use statement with non-compound name 'Throwable' has no effect in C:\xampp\htdocs\nfit3\includes\training_store.php on line 6
+[24-Feb-2026 20:15:09 America/Sao_Paulo] PHP Warning:  The use statement with non-compound name 'RuntimeException' has no effect in C:\xampp\htdocs\nfit3\includes\training_store.php on line 5
+[24-Feb-2026 20:15:09 America/Sao_Paulo] PHP Warning:  The use statement with non-compound name 'Throwable' has no effect in C:\xampp\htdocs\nfit3\includes\training_store.php on line 6
+[24-Feb-2026 20:24:35 America/Sao_Paulo] PHP Warning:  The use statement with non-compound name 'RuntimeException' has no effect in C:\xampp\htdocs\nfit3\includes\training_store.php on line 5
+[24-Feb-2026 20:24:35 America/Sao_Paulo] PHP Warning:  The use statement with non-compound name 'Throwable' has no effect in C:\xampp\htdocs\nfit3\includes\training_store.php on line 6
+[24-Feb-2026 20:24:50 America/Sao_Paulo] PHP Warning:  The use statement with non-compound name 'RuntimeException' has no effect in C:\xampp\htdocs\nfit3\includes\training_store.php on line 5
+[24-Feb-2026 20:24:50 America/Sao_Paulo] PHP Warning:  The use statement with non-compound name 'Throwable' has no effect in C:\xampp\htdocs\nfit3\includes\training_store.php on line 6
+[24-Feb-2026 20:25:21 America/Sao_Paulo] PHP Warning:  The use statement with non-compound name 'RuntimeException' has no effect in C:\xampp\htdocs\nfit3\includes\training_store.php on line 5
+[24-Feb-2026 20:25:21 America/Sao_Paulo] PHP Warning:  The use statement with non-compound name 'Throwable' has no effect in C:\xampp\htdocs\nfit3\includes\training_store.php on line 6
+[24-Feb-2026 21:11:25 America/Sao_Paulo] PHP Warning:  The use statement with non-compound name 'RuntimeException' has no effect in C:\xampp\htdocs\nfit3\includes\training_store.php on line 5
+[24-Feb-2026 21:11:25 America/Sao_Paulo] PHP Warning:  The use statement with non-compound name 'Throwable' has no effect in C:\xampp\htdocs\nfit3\includes\training_store.php on line 6
+[24-Feb-2026 21:18:10 America/Sao_Paulo] PHP Warning:  The use statement with non-compound name 'RuntimeException' has no effect in C:\xampp\htdocs\nfit3\includes\training_store.php on line 5
+[24-Feb-2026 21:18:10 America/Sao_Paulo] PHP Warning:  The use statement with non-compound name 'Throwable' has no effect in C:\xampp\htdocs\nfit3\includes\training_store.php on line 6
+[24-Feb-2026 21:45:43 America/Sao_Paulo] PHP Warning:  The use statement with non-compound name 'RuntimeException' has no effect in C:\xampp\htdocs\nfit3\includes\training_store.php on line 5
+[24-Feb-2026 21:45:43 America/Sao_Paulo] PHP Warning:  The use statement with non-compound name 'Throwable' has no effect in C:\xampp\htdocs\nfit3\includes\training_store.php on line 6
+[24-Feb-2026 22:03:46 America/Sao_Paulo] PHP Warning:  The use statement with non-compound name 'RuntimeException' has no effect in C:\xampp\htdocs\nfit3\includes\training_store.php on line 5
+[24-Feb-2026 22:03:46 America/Sao_Paulo] PHP Warning:  The use statement with non-compound name 'Throwable' has no effect in C:\xampp\htdocs\nfit3\includes\training_store.php on line 6

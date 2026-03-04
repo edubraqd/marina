@@ -1,0 +1,611 @@
+{"ts":"2025-11-20T19:31:12-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/area-login.php","ip":"::1"}}
+{"ts":"2025-11-20T19:31:34-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/area-login.php","ip":"::1"}}
+{"ts":"2025-11-20T19:31:36-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/area-login.php","ip":"::1"}}
+{"ts":"2025-11-20T20:11:13-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/pagamento.php","ip":"::1"}}
+{"ts":"2025-11-22T09:09:31-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/area-login.php","ip":"::1"}}
+{"ts":"2025-11-25T00:42:45-03:00","msg":"bootstrap_loaded","context":{"uri":"","ip":""}}
+{"ts":"2025-11-25T00:43:11-03:00","msg":"bootstrap_loaded","context":{"uri":"","ip":""}}
+{"ts":"2025-11-25T21:21:17-03:00","msg":"bootstrap_loaded","context":{"uri":"","ip":""}}
+{"ts":"2025-12-13T22:26:39-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/area-login","ip":"::1"}}
+{"ts":"2025-12-13T22:40:00-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/area-login","ip":"::1"}}
+{"ts":"2025-12-13T22:40:01-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/area-login","ip":"::1"}}
+{"ts":"2025-12-13T22:40:48-03:00","msg":"bootstrap_loaded","context":{"uri":"","ip":""}}
+{"ts":"2025-12-13T22:40:48-03:00","msg":"php_error","context":{"severity":2,"message":"The use statement with non-compound name 'RuntimeException' has no effect","file":"C:\\xampp\\htdocs\\nfit3\\includes\\training_store.php","line":5}}
+{"ts":"2025-12-13T22:40:48-03:00","msg":"php_error","context":{"severity":2,"message":"The use statement with non-compound name 'Throwable' has no effect","file":"C:\\xampp\\htdocs\\nfit3\\includes\\training_store.php","line":6}}
+{"ts":"2025-12-13T22:40:49-03:00","msg":"area_guard: session without user_email","context":{"uri":""}}
+{"ts":"2026-02-20T19:58:50-03:00","msg":"bootstrap_loaded","context":{"uri":"","ip":""}}
+{"ts":"2026-02-20T19:59:08-03:00","msg":"bootstrap_loaded","context":{"uri":"","ip":""}}
+{"ts":"2026-02-20T19:59:08-03:00","msg":"training_pdf_backup_saved","context":{"email":"teste@example.com","filename":"treino_teste@example.com_2026-02-20_195908.pdf","size":2235}}
+{"ts":"2026-02-20T20:13:41-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/","ip":"::1"}}
+{"ts":"2026-02-20T20:13:41-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-20T20:13:41-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"root","message":"Access denied for user 'root'@'localhost' (using password: NO)"}}
+{"ts":"2026-02-20T20:15:15-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/","ip":"::1"}}
+{"ts":"2026-02-20T20:15:15-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-20T20:15:15-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"root","message":"Access denied for user 'root'@'localhost' (using password: NO)"}}
+{"ts":"2026-02-20T20:15:19-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/pricing","ip":"::1"}}
+{"ts":"2026-02-20T20:15:19-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-20T20:15:19-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"root","message":"Access denied for user 'root'@'localhost' (using password: NO)"}}
+{"ts":"2026-02-20T20:15:28-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/acesso","ip":"::1"}}
+{"ts":"2026-02-20T20:15:29-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/area-login","ip":"::1"}}
+{"ts":"2026-02-20T20:15:29-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-20T20:15:29-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"root","message":"Access denied for user 'root'@'localhost' (using password: NO)"}}
+{"ts":"2026-02-20T20:15:31-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/area","ip":"::1"}}
+{"ts":"2026-02-20T20:15:31-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-20T20:15:31-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"root","message":"Access denied for user 'root'@'localhost' (using password: NO)"}}
+{"ts":"2026-02-20T20:15:32-03:00","msg":"area_guard: session without user_email","context":{"uri":"\/nfit3\/area"}}
+{"ts":"2026-02-20T20:15:32-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/area-config","ip":"::1"}}
+{"ts":"2026-02-20T20:15:32-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-20T20:15:32-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"root","message":"Access denied for user 'root'@'localhost' (using password: NO)"}}
+{"ts":"2026-02-20T20:15:34-03:00","msg":"area_guard: session without user_email","context":{"uri":"\/nfit3\/area-config"}}
+{"ts":"2026-02-20T20:15:34-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/area-treinos","ip":"::1"}}
+{"ts":"2026-02-20T20:15:34-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-20T20:15:34-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"root","message":"Access denied for user 'root'@'localhost' (using password: NO)"}}
+{"ts":"2026-02-20T20:15:35-03:00","msg":"php_error","context":{"severity":2,"message":"The use statement with non-compound name 'RuntimeException' has no effect","file":"C:\\xampp\\htdocs\\nfit3\\includes\\training_store.php","line":5}}
+{"ts":"2026-02-20T20:15:35-03:00","msg":"php_error","context":{"severity":2,"message":"The use statement with non-compound name 'Throwable' has no effect","file":"C:\\xampp\\htdocs\\nfit3\\includes\\training_store.php","line":6}}
+{"ts":"2026-02-20T20:15:35-03:00","msg":"area_guard: session without user_email","context":{"uri":"\/nfit3\/area-treinos"}}
+{"ts":"2026-02-20T20:15:35-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/area-planos","ip":"::1"}}
+{"ts":"2026-02-20T20:15:35-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-20T20:15:35-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"root","message":"Access denied for user 'root'@'localhost' (using password: NO)"}}
+{"ts":"2026-02-20T20:15:37-03:00","msg":"area_guard: session without user_email","context":{"uri":"\/nfit3\/area-planos"}}
+{"ts":"2026-02-20T20:15:37-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/area-admin","ip":"::1"}}
+{"ts":"2026-02-20T20:15:37-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-20T20:15:37-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"root","message":"Access denied for user 'root'@'localhost' (using password: NO)"}}
+{"ts":"2026-02-20T20:15:39-03:00","msg":"php_error","context":{"severity":2,"message":"The use statement with non-compound name 'RuntimeException' has no effect","file":"C:\\xampp\\htdocs\\nfit3\\includes\\training_store.php","line":5}}
+{"ts":"2026-02-20T20:15:39-03:00","msg":"php_error","context":{"severity":2,"message":"The use statement with non-compound name 'Throwable' has no effect","file":"C:\\xampp\\htdocs\\nfit3\\includes\\training_store.php","line":6}}
+{"ts":"2026-02-20T20:15:39-03:00","msg":"area_guard: session without user_email","context":{"uri":"\/nfit3\/area-admin"}}
+{"ts":"2026-02-20T20:15:39-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/area-admin-treinos","ip":"::1"}}
+{"ts":"2026-02-20T20:15:39-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-20T20:15:39-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"root","message":"Access denied for user 'root'@'localhost' (using password: NO)"}}
+{"ts":"2026-02-20T20:15:40-03:00","msg":"php_error","context":{"severity":2,"message":"The use statement with non-compound name 'RuntimeException' has no effect","file":"C:\\xampp\\htdocs\\nfit3\\includes\\training_store.php","line":5}}
+{"ts":"2026-02-20T20:15:40-03:00","msg":"php_error","context":{"severity":2,"message":"The use statement with non-compound name 'Throwable' has no effect","file":"C:\\xampp\\htdocs\\nfit3\\includes\\training_store.php","line":6}}
+{"ts":"2026-02-20T20:15:40-03:00","msg":"area_guard: session without user_email","context":{"uri":"\/nfit3\/area-admin-treinos"}}
+{"ts":"2026-02-20T20:15:40-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/area-admin-planos","ip":"::1"}}
+{"ts":"2026-02-20T20:15:40-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-20T20:15:40-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"root","message":"Access denied for user 'root'@'localhost' (using password: NO)"}}
+{"ts":"2026-02-20T20:15:41-03:00","msg":"area_guard: session without user_email","context":{"uri":"\/nfit3\/area-admin-planos"}}
+{"ts":"2026-02-20T20:15:42-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/area-admin-links","ip":"::1"}}
+{"ts":"2026-02-20T20:15:42-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-20T20:15:42-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"root","message":"Access denied for user 'root'@'localhost' (using password: NO)"}}
+{"ts":"2026-02-20T20:15:43-03:00","msg":"area_guard: session without user_email","context":{"uri":"\/nfit3\/area-admin-links"}}
+{"ts":"2026-02-20T20:15:43-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/training-autosave","ip":"::1"}}
+{"ts":"2026-02-20T20:15:43-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-20T20:15:43-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"root","message":"Access denied for user 'root'@'localhost' (using password: NO)"}}
+{"ts":"2026-02-20T20:15:44-03:00","msg":"php_error","context":{"severity":2,"message":"The use statement with non-compound name 'RuntimeException' has no effect","file":"C:\\xampp\\htdocs\\nfit3\\includes\\training_store.php","line":5}}
+{"ts":"2026-02-20T20:15:44-03:00","msg":"php_error","context":{"severity":2,"message":"The use statement with non-compound name 'Throwable' has no effect","file":"C:\\xampp\\htdocs\\nfit3\\includes\\training_store.php","line":6}}
+{"ts":"2026-02-20T20:15:44-03:00","msg":"area_guard: session without user_email","context":{"uri":"\/nfit3\/training-autosave"}}
+{"ts":"2026-02-20T20:15:45-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/training-pdf-download","ip":"::1"}}
+{"ts":"2026-02-20T20:15:45-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-20T20:15:45-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"root","message":"Access denied for user 'root'@'localhost' (using password: NO)"}}
+{"ts":"2026-02-20T20:15:46-03:00","msg":"php_error","context":{"severity":2,"message":"The use statement with non-compound name 'RuntimeException' has no effect","file":"C:\\xampp\\htdocs\\nfit3\\includes\\training_store.php","line":5}}
+{"ts":"2026-02-20T20:15:46-03:00","msg":"php_error","context":{"severity":2,"message":"The use statement with non-compound name 'Throwable' has no effect","file":"C:\\xampp\\htdocs\\nfit3\\includes\\training_store.php","line":6}}
+{"ts":"2026-02-20T20:15:46-03:00","msg":"area_guard: session without user_email","context":{"uri":"\/nfit3\/training-pdf-download"}}
+{"ts":"2026-02-20T20:15:46-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/plan-download","ip":"::1"}}
+{"ts":"2026-02-20T20:15:46-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-20T20:15:46-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"root","message":"Access denied for user 'root'@'localhost' (using password: NO)"}}
+{"ts":"2026-02-20T20:15:47-03:00","msg":"area_guard: session without user_email","context":{"uri":"\/nfit3\/plan-download"}}
+{"ts":"2026-02-20T20:15:47-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/mp-create-payment","ip":"::1"}}
+{"ts":"2026-02-20T20:15:48-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/mp-create-preference","ip":"::1"}}
+{"ts":"2026-02-20T20:15:48-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/mp-check-payment","ip":"::1"}}
+{"ts":"2026-02-20T20:15:48-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/mp-check-preference","ip":"::1"}}
+{"ts":"2026-02-20T20:15:49-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/mp-reprocess","ip":"::1"}}
+{"ts":"2026-02-20T20:15:49-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-20T20:15:49-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"root","message":"Access denied for user 'root'@'localhost' (using password: NO)"}}
+{"ts":"2026-02-20T20:15:49-03:00","msg":"area_guard: session without user_email","context":{"uri":"\/nfit3\/mp-reprocess"}}
+{"ts":"2026-02-20T20:15:50-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/formulario-inicial","ip":"::1"}}
+{"ts":"2026-02-20T20:15:50-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-20T20:15:50-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"root","message":"Access denied for user 'root'@'localhost' (using password: NO)"}}
+{"ts":"2026-02-20T20:15:51-03:00","msg":"area_guard: session without user_email","context":{"uri":"\/nfit3\/formulario-inicial"}}
+{"ts":"2026-02-20T20:15:51-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/formulario-atualizacao","ip":"::1"}}
+{"ts":"2026-02-20T20:15:51-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-20T20:15:51-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"root","message":"Access denied for user 'root'@'localhost' (using password: NO)"}}
+{"ts":"2026-02-20T20:15:52-03:00","msg":"area_guard: session without user_email","context":{"uri":"\/nfit3\/formulario-atualizacao"}}
+{"ts":"2026-02-20T20:15:53-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/pagamento","ip":"::1"}}
+{"ts":"2026-02-20T20:15:53-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-20T20:15:53-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"root","message":"Access denied for user 'root'@'localhost' (using password: NO)"}}
+{"ts":"2026-02-20T20:15:55-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/payment-return","ip":"::1"}}
+{"ts":"2026-02-20T20:16:27-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/","ip":"::1"}}
+{"ts":"2026-02-20T20:16:27-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-20T20:16:27-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"root","message":"Access denied for user 'root'@'localhost' (using password: NO)"}}
+{"ts":"2026-02-20T20:16:47-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/area","ip":"::1"}}
+{"ts":"2026-02-20T20:16:47-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-20T20:16:47-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"root","message":"Access denied for user 'root'@'localhost' (using password: NO)"}}
+{"ts":"2026-02-20T20:16:48-03:00","msg":"area_guard: session without user_email","context":{"uri":"\/nfit3\/area"}}
+{"ts":"2026-02-20T20:16:53-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/","ip":"::1"}}
+{"ts":"2026-02-20T20:16:53-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-20T20:16:53-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"root","message":"Access denied for user 'root'@'localhost' (using password: NO)"}}
+{"ts":"2026-02-20T20:18:05-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/","ip":"::1"}}
+{"ts":"2026-02-20T20:18:05-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-20T20:18:05-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"root","message":"Access denied for user 'root'@'localhost' (using password: NO)"}}
+{"ts":"2026-02-20T20:18:08-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/pricing","ip":"::1"}}
+{"ts":"2026-02-20T20:18:08-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-20T20:18:08-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"root","message":"Access denied for user 'root'@'localhost' (using password: NO)"}}
+{"ts":"2026-02-20T20:18:14-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/acesso","ip":"::1"}}
+{"ts":"2026-02-20T20:18:14-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/area-login","ip":"::1"}}
+{"ts":"2026-02-20T20:18:14-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-20T20:18:14-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"root","message":"Access denied for user 'root'@'localhost' (using password: NO)"}}
+{"ts":"2026-02-20T20:18:16-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/area","ip":"::1"}}
+{"ts":"2026-02-20T20:18:16-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-20T20:18:16-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"root","message":"Access denied for user 'root'@'localhost' (using password: NO)"}}
+{"ts":"2026-02-20T20:18:17-03:00","msg":"area_guard: session without user_email","context":{"uri":"\/nfit3\/area"}}
+{"ts":"2026-02-20T20:18:17-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/area-config","ip":"::1"}}
+{"ts":"2026-02-20T20:18:17-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-20T20:18:17-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"root","message":"Access denied for user 'root'@'localhost' (using password: NO)"}}
+{"ts":"2026-02-20T20:18:18-03:00","msg":"area_guard: session without user_email","context":{"uri":"\/nfit3\/area-config"}}
+{"ts":"2026-02-20T20:18:19-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/area-treinos","ip":"::1"}}
+{"ts":"2026-02-20T20:18:19-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-20T20:18:19-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"root","message":"Access denied for user 'root'@'localhost' (using password: NO)"}}
+{"ts":"2026-02-20T20:18:20-03:00","msg":"php_error","context":{"severity":2,"message":"The use statement with non-compound name 'RuntimeException' has no effect","file":"C:\\xampp\\htdocs\\nfit3\\includes\\training_store.php","line":5}}
+{"ts":"2026-02-20T20:18:20-03:00","msg":"php_error","context":{"severity":2,"message":"The use statement with non-compound name 'Throwable' has no effect","file":"C:\\xampp\\htdocs\\nfit3\\includes\\training_store.php","line":6}}
+{"ts":"2026-02-20T20:18:20-03:00","msg":"area_guard: session without user_email","context":{"uri":"\/nfit3\/area-treinos"}}
+{"ts":"2026-02-20T20:18:20-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/area-planos","ip":"::1"}}
+{"ts":"2026-02-20T20:18:20-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-20T20:18:20-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"root","message":"Access denied for user 'root'@'localhost' (using password: NO)"}}
+{"ts":"2026-02-20T20:18:21-03:00","msg":"area_guard: session without user_email","context":{"uri":"\/nfit3\/area-planos"}}
+{"ts":"2026-02-20T20:18:21-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/area-admin","ip":"::1"}}
+{"ts":"2026-02-20T20:18:21-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-20T20:18:21-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"root","message":"Access denied for user 'root'@'localhost' (using password: NO)"}}
+{"ts":"2026-02-20T20:18:22-03:00","msg":"php_error","context":{"severity":2,"message":"The use statement with non-compound name 'RuntimeException' has no effect","file":"C:\\xampp\\htdocs\\nfit3\\includes\\training_store.php","line":5}}
+{"ts":"2026-02-20T20:18:22-03:00","msg":"php_error","context":{"severity":2,"message":"The use statement with non-compound name 'Throwable' has no effect","file":"C:\\xampp\\htdocs\\nfit3\\includes\\training_store.php","line":6}}
+{"ts":"2026-02-20T20:18:22-03:00","msg":"area_guard: session without user_email","context":{"uri":"\/nfit3\/area-admin"}}
+{"ts":"2026-02-20T20:18:23-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/area-admin-treinos","ip":"::1"}}
+{"ts":"2026-02-20T20:18:23-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-20T20:18:23-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"root","message":"Access denied for user 'root'@'localhost' (using password: NO)"}}
+{"ts":"2026-02-20T20:18:24-03:00","msg":"php_error","context":{"severity":2,"message":"The use statement with non-compound name 'RuntimeException' has no effect","file":"C:\\xampp\\htdocs\\nfit3\\includes\\training_store.php","line":5}}
+{"ts":"2026-02-20T20:18:24-03:00","msg":"php_error","context":{"severity":2,"message":"The use statement with non-compound name 'Throwable' has no effect","file":"C:\\xampp\\htdocs\\nfit3\\includes\\training_store.php","line":6}}
+{"ts":"2026-02-20T20:18:24-03:00","msg":"area_guard: session without user_email","context":{"uri":"\/nfit3\/area-admin-treinos"}}
+{"ts":"2026-02-20T20:18:24-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/area-admin-planos","ip":"::1"}}
+{"ts":"2026-02-20T20:18:24-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-20T20:18:24-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"root","message":"Access denied for user 'root'@'localhost' (using password: NO)"}}
+{"ts":"2026-02-20T20:18:25-03:00","msg":"area_guard: session without user_email","context":{"uri":"\/nfit3\/area-admin-planos"}}
+{"ts":"2026-02-20T20:18:26-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/area-admin-links","ip":"::1"}}
+{"ts":"2026-02-20T20:18:26-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-20T20:18:26-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"root","message":"Access denied for user 'root'@'localhost' (using password: NO)"}}
+{"ts":"2026-02-20T20:18:27-03:00","msg":"area_guard: session without user_email","context":{"uri":"\/nfit3\/area-admin-links"}}
+{"ts":"2026-02-20T20:18:27-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/formulario-inicial","ip":"::1"}}
+{"ts":"2026-02-20T20:18:27-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-20T20:18:27-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"root","message":"Access denied for user 'root'@'localhost' (using password: NO)"}}
+{"ts":"2026-02-20T20:18:28-03:00","msg":"area_guard: session without user_email","context":{"uri":"\/nfit3\/formulario-inicial"}}
+{"ts":"2026-02-20T20:18:28-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/formulario-atualizacao","ip":"::1"}}
+{"ts":"2026-02-20T20:18:28-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-20T20:18:28-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"root","message":"Access denied for user 'root'@'localhost' (using password: NO)"}}
+{"ts":"2026-02-20T20:18:29-03:00","msg":"area_guard: session without user_email","context":{"uri":"\/nfit3\/formulario-atualizacao"}}
+{"ts":"2026-02-20T20:18:30-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/pagamento","ip":"::1"}}
+{"ts":"2026-02-20T20:18:30-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-20T20:18:30-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"root","message":"Access denied for user 'root'@'localhost' (using password: NO)"}}
+{"ts":"2026-02-20T20:18:31-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/payment-return","ip":"::1"}}
+{"ts":"2026-02-20T20:18:32-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/training-autosave","ip":"::1"}}
+{"ts":"2026-02-20T20:18:32-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-20T20:18:32-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"root","message":"Access denied for user 'root'@'localhost' (using password: NO)"}}
+{"ts":"2026-02-20T20:18:33-03:00","msg":"php_error","context":{"severity":2,"message":"The use statement with non-compound name 'RuntimeException' has no effect","file":"C:\\xampp\\htdocs\\nfit3\\includes\\training_store.php","line":5}}
+{"ts":"2026-02-20T20:18:33-03:00","msg":"php_error","context":{"severity":2,"message":"The use statement with non-compound name 'Throwable' has no effect","file":"C:\\xampp\\htdocs\\nfit3\\includes\\training_store.php","line":6}}
+{"ts":"2026-02-20T20:18:33-03:00","msg":"area_guard: session without user_email","context":{"uri":"\/nfit3\/training-autosave"}}
+{"ts":"2026-02-20T20:18:33-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/training-pdf-download","ip":"::1"}}
+{"ts":"2026-02-20T20:18:33-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-20T20:18:33-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"root","message":"Access denied for user 'root'@'localhost' (using password: NO)"}}
+{"ts":"2026-02-20T20:18:34-03:00","msg":"php_error","context":{"severity":2,"message":"The use statement with non-compound name 'RuntimeException' has no effect","file":"C:\\xampp\\htdocs\\nfit3\\includes\\training_store.php","line":5}}
+{"ts":"2026-02-20T20:18:34-03:00","msg":"php_error","context":{"severity":2,"message":"The use statement with non-compound name 'Throwable' has no effect","file":"C:\\xampp\\htdocs\\nfit3\\includes\\training_store.php","line":6}}
+{"ts":"2026-02-20T20:18:34-03:00","msg":"area_guard: session without user_email","context":{"uri":"\/nfit3\/training-pdf-download"}}
+{"ts":"2026-02-20T20:18:35-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/plan-download","ip":"::1"}}
+{"ts":"2026-02-20T20:18:35-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-20T20:18:35-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"root","message":"Access denied for user 'root'@'localhost' (using password: NO)"}}
+{"ts":"2026-02-20T20:18:36-03:00","msg":"area_guard: session without user_email","context":{"uri":"\/nfit3\/plan-download"}}
+{"ts":"2026-02-20T20:18:36-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/mp-create-payment","ip":"::1"}}
+{"ts":"2026-02-20T20:18:36-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/mp-create-preference","ip":"::1"}}
+{"ts":"2026-02-20T20:18:37-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/mp-check-payment","ip":"::1"}}
+{"ts":"2026-02-20T20:18:37-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/mp-check-preference","ip":"::1"}}
+{"ts":"2026-02-20T20:18:37-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/mp-reprocess","ip":"::1"}}
+{"ts":"2026-02-20T20:18:37-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-20T20:18:37-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"root","message":"Access denied for user 'root'@'localhost' (using password: NO)"}}
+{"ts":"2026-02-20T20:18:38-03:00","msg":"area_guard: session without user_email","context":{"uri":"\/nfit3\/mp-reprocess"}}
+{"ts":"2026-02-20T20:19:36-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/webhook-mp","ip":"::1"}}
+{"ts":"2026-02-20T20:20:41-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/","ip":"::1"}}
+{"ts":"2026-02-20T20:20:41-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-20T20:20:41-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"root","message":"Access denied for user 'root'@'localhost' (using password: NO)"}}
+{"ts":"2026-02-20T20:20:45-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/pricing","ip":"::1"}}
+{"ts":"2026-02-20T20:20:45-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-20T20:20:45-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"root","message":"Access denied for user 'root'@'localhost' (using password: NO)"}}
+{"ts":"2026-02-20T20:20:52-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/acesso","ip":"::1"}}
+{"ts":"2026-02-20T20:20:53-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/area-login","ip":"::1"}}
+{"ts":"2026-02-20T20:20:53-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-20T20:20:53-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"root","message":"Access denied for user 'root'@'localhost' (using password: NO)"}}
+{"ts":"2026-02-20T20:20:55-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/area","ip":"::1"}}
+{"ts":"2026-02-20T20:20:55-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-20T20:20:55-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"root","message":"Access denied for user 'root'@'localhost' (using password: NO)"}}
+{"ts":"2026-02-20T20:20:56-03:00","msg":"area_guard: session without user_email","context":{"uri":"\/nfit3\/area"}}
+{"ts":"2026-02-20T20:20:56-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/area-config","ip":"::1"}}
+{"ts":"2026-02-20T20:20:56-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-20T20:20:56-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"root","message":"Access denied for user 'root'@'localhost' (using password: NO)"}}
+{"ts":"2026-02-20T20:20:57-03:00","msg":"area_guard: session without user_email","context":{"uri":"\/nfit3\/area-config"}}
+{"ts":"2026-02-20T20:20:58-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/area-treinos","ip":"::1"}}
+{"ts":"2026-02-20T20:20:58-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-20T20:20:58-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"root","message":"Access denied for user 'root'@'localhost' (using password: NO)"}}
+{"ts":"2026-02-20T20:20:59-03:00","msg":"php_error","context":{"severity":2,"message":"The use statement with non-compound name 'RuntimeException' has no effect","file":"C:\\xampp\\htdocs\\nfit3\\includes\\training_store.php","line":5}}
+{"ts":"2026-02-20T20:20:59-03:00","msg":"php_error","context":{"severity":2,"message":"The use statement with non-compound name 'Throwable' has no effect","file":"C:\\xampp\\htdocs\\nfit3\\includes\\training_store.php","line":6}}
+{"ts":"2026-02-20T20:20:59-03:00","msg":"area_guard: session without user_email","context":{"uri":"\/nfit3\/area-treinos"}}
+{"ts":"2026-02-20T20:20:59-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/area-planos","ip":"::1"}}
+{"ts":"2026-02-20T20:20:59-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-20T20:20:59-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"root","message":"Access denied for user 'root'@'localhost' (using password: NO)"}}
+{"ts":"2026-02-20T20:21:00-03:00","msg":"area_guard: session without user_email","context":{"uri":"\/nfit3\/area-planos"}}
+{"ts":"2026-02-20T20:21:00-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/area-admin","ip":"::1"}}
+{"ts":"2026-02-20T20:21:00-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-20T20:21:00-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"root","message":"Access denied for user 'root'@'localhost' (using password: NO)"}}
+{"ts":"2026-02-20T20:21:01-03:00","msg":"php_error","context":{"severity":2,"message":"The use statement with non-compound name 'RuntimeException' has no effect","file":"C:\\xampp\\htdocs\\nfit3\\includes\\training_store.php","line":5}}
+{"ts":"2026-02-20T20:21:01-03:00","msg":"php_error","context":{"severity":2,"message":"The use statement with non-compound name 'Throwable' has no effect","file":"C:\\xampp\\htdocs\\nfit3\\includes\\training_store.php","line":6}}
+{"ts":"2026-02-20T20:21:01-03:00","msg":"area_guard: session without user_email","context":{"uri":"\/nfit3\/area-admin"}}
+{"ts":"2026-02-20T20:21:02-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/area-admin-treinos","ip":"::1"}}
+{"ts":"2026-02-20T20:21:02-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-20T20:21:02-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"root","message":"Access denied for user 'root'@'localhost' (using password: NO)"}}
+{"ts":"2026-02-20T20:21:03-03:00","msg":"php_error","context":{"severity":2,"message":"The use statement with non-compound name 'RuntimeException' has no effect","file":"C:\\xampp\\htdocs\\nfit3\\includes\\training_store.php","line":5}}
+{"ts":"2026-02-20T20:21:03-03:00","msg":"php_error","context":{"severity":2,"message":"The use statement with non-compound name 'Throwable' has no effect","file":"C:\\xampp\\htdocs\\nfit3\\includes\\training_store.php","line":6}}
+{"ts":"2026-02-20T20:21:03-03:00","msg":"area_guard: session without user_email","context":{"uri":"\/nfit3\/area-admin-treinos"}}
+{"ts":"2026-02-20T20:21:03-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/area-admin-planos","ip":"::1"}}
+{"ts":"2026-02-20T20:21:03-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-20T20:21:03-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"root","message":"Access denied for user 'root'@'localhost' (using password: NO)"}}
+{"ts":"2026-02-20T20:21:04-03:00","msg":"area_guard: session without user_email","context":{"uri":"\/nfit3\/area-admin-planos"}}
+{"ts":"2026-02-20T20:21:04-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/area-admin-links","ip":"::1"}}
+{"ts":"2026-02-20T20:21:04-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-20T20:21:04-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"root","message":"Access denied for user 'root'@'localhost' (using password: NO)"}}
+{"ts":"2026-02-20T20:21:05-03:00","msg":"area_guard: session without user_email","context":{"uri":"\/nfit3\/area-admin-links"}}
+{"ts":"2026-02-20T20:21:06-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/formulario-inicial","ip":"::1"}}
+{"ts":"2026-02-20T20:21:06-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-20T20:21:06-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"root","message":"Access denied for user 'root'@'localhost' (using password: NO)"}}
+{"ts":"2026-02-20T20:21:07-03:00","msg":"area_guard: session without user_email","context":{"uri":"\/nfit3\/formulario-inicial"}}
+{"ts":"2026-02-20T20:21:07-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/formulario-atualizacao","ip":"::1"}}
+{"ts":"2026-02-20T20:21:07-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-20T20:21:07-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"root","message":"Access denied for user 'root'@'localhost' (using password: NO)"}}
+{"ts":"2026-02-20T20:21:08-03:00","msg":"area_guard: session without user_email","context":{"uri":"\/nfit3\/formulario-atualizacao"}}
+{"ts":"2026-02-20T20:21:09-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/pagamento","ip":"::1"}}
+{"ts":"2026-02-20T20:21:09-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-20T20:21:09-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"root","message":"Access denied for user 'root'@'localhost' (using password: NO)"}}
+{"ts":"2026-02-20T20:21:10-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/payment-return","ip":"::1"}}
+{"ts":"2026-02-20T20:21:11-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/training-autosave","ip":"::1"}}
+{"ts":"2026-02-20T20:21:11-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-20T20:21:11-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"root","message":"Access denied for user 'root'@'localhost' (using password: NO)"}}
+{"ts":"2026-02-20T20:21:12-03:00","msg":"php_error","context":{"severity":2,"message":"The use statement with non-compound name 'RuntimeException' has no effect","file":"C:\\xampp\\htdocs\\nfit3\\includes\\training_store.php","line":5}}
+{"ts":"2026-02-20T20:21:12-03:00","msg":"php_error","context":{"severity":2,"message":"The use statement with non-compound name 'Throwable' has no effect","file":"C:\\xampp\\htdocs\\nfit3\\includes\\training_store.php","line":6}}
+{"ts":"2026-02-20T20:21:12-03:00","msg":"area_guard: session without user_email","context":{"uri":"\/nfit3\/training-autosave"}}
+{"ts":"2026-02-20T20:21:12-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/training-pdf-download","ip":"::1"}}
+{"ts":"2026-02-20T20:21:12-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-20T20:21:12-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"root","message":"Access denied for user 'root'@'localhost' (using password: NO)"}}
+{"ts":"2026-02-20T20:21:13-03:00","msg":"php_error","context":{"severity":2,"message":"The use statement with non-compound name 'RuntimeException' has no effect","file":"C:\\xampp\\htdocs\\nfit3\\includes\\training_store.php","line":5}}
+{"ts":"2026-02-20T20:21:13-03:00","msg":"php_error","context":{"severity":2,"message":"The use statement with non-compound name 'Throwable' has no effect","file":"C:\\xampp\\htdocs\\nfit3\\includes\\training_store.php","line":6}}
+{"ts":"2026-02-20T20:21:13-03:00","msg":"area_guard: session without user_email","context":{"uri":"\/nfit3\/training-pdf-download"}}
+{"ts":"2026-02-20T20:21:14-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/plan-download","ip":"::1"}}
+{"ts":"2026-02-20T20:21:14-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-20T20:21:14-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"root","message":"Access denied for user 'root'@'localhost' (using password: NO)"}}
+{"ts":"2026-02-20T20:21:15-03:00","msg":"area_guard: session without user_email","context":{"uri":"\/nfit3\/plan-download"}}
+{"ts":"2026-02-20T20:21:15-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/mp-create-payment","ip":"::1"}}
+{"ts":"2026-02-20T20:21:16-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/mp-create-preference","ip":"::1"}}
+{"ts":"2026-02-20T20:21:16-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/mp-check-payment","ip":"::1"}}
+{"ts":"2026-02-20T20:21:16-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/mp-check-preference","ip":"::1"}}
+{"ts":"2026-02-20T20:21:16-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/mp-reprocess","ip":"::1"}}
+{"ts":"2026-02-20T20:21:16-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-20T20:21:16-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"root","message":"Access denied for user 'root'@'localhost' (using password: NO)"}}
+{"ts":"2026-02-20T20:21:18-03:00","msg":"area_guard: session without user_email","context":{"uri":"\/nfit3\/mp-reprocess"}}
+{"ts":"2026-02-20T20:21:18-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/webhook-mp","ip":"::1"}}
+{"ts":"2026-02-20T20:31:18-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/area-admin-treinos","ip":"::1"}}
+{"ts":"2026-02-20T20:31:18-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-20T20:31:18-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"root","message":"Access denied for user 'root'@'localhost' (using password: NO)"}}
+{"ts":"2026-02-20T20:31:19-03:00","msg":"php_error","context":{"severity":2,"message":"The use statement with non-compound name 'RuntimeException' has no effect","file":"C:\\xampp\\htdocs\\nfit3\\includes\\training_store.php","line":5}}
+{"ts":"2026-02-20T20:31:19-03:00","msg":"php_error","context":{"severity":2,"message":"The use statement with non-compound name 'Throwable' has no effect","file":"C:\\xampp\\htdocs\\nfit3\\includes\\training_store.php","line":6}}
+{"ts":"2026-02-20T20:31:19-03:00","msg":"area_guard: session without user_email","context":{"uri":"\/nfit3\/area-admin-treinos"}}
+{"ts":"2026-02-20T20:31:20-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/area-treinos","ip":"::1"}}
+{"ts":"2026-02-20T20:31:20-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-20T20:31:20-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"root","message":"Access denied for user 'root'@'localhost' (using password: NO)"}}
+{"ts":"2026-02-20T20:31:21-03:00","msg":"php_error","context":{"severity":2,"message":"The use statement with non-compound name 'RuntimeException' has no effect","file":"C:\\xampp\\htdocs\\nfit3\\includes\\training_store.php","line":5}}
+{"ts":"2026-02-20T20:31:21-03:00","msg":"php_error","context":{"severity":2,"message":"The use statement with non-compound name 'Throwable' has no effect","file":"C:\\xampp\\htdocs\\nfit3\\includes\\training_store.php","line":6}}
+{"ts":"2026-02-20T20:31:21-03:00","msg":"area_guard: session without user_email","context":{"uri":"\/nfit3\/area-treinos"}}
+{"ts":"2026-02-20T20:31:21-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/area-login","ip":"::1"}}
+{"ts":"2026-02-20T20:31:21-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-20T20:31:21-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"root","message":"Access denied for user 'root'@'localhost' (using password: NO)"}}
+{"ts":"2026-02-20T20:31:22-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/area","ip":"::1"}}
+{"ts":"2026-02-20T20:31:22-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-20T20:31:22-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"root","message":"Access denied for user 'root'@'localhost' (using password: NO)"}}
+{"ts":"2026-02-20T20:31:23-03:00","msg":"area_guard: session without user_email","context":{"uri":"\/nfit3\/area"}}
+{"ts":"2026-02-20T20:31:24-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/training-complete","ip":"::1"}}
+{"ts":"2026-02-20T20:31:24-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-20T20:31:24-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"root","message":"Access denied for user 'root'@'localhost' (using password: NO)"}}
+{"ts":"2026-02-20T20:31:25-03:00","msg":"area_guard: session without user_email","context":{"uri":"\/nfit3\/training-complete"}}
+{"ts":"2026-02-24T20:04:03-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/","ip":"::1"}}
+{"ts":"2026-02-24T20:04:03-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-24T20:04:03-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"root","message":"Unknown database 'edua0932_nutremfit'"}}
+{"ts":"2026-02-24T20:13:32-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/","ip":"::1"}}
+{"ts":"2026-02-24T20:13:32-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-24T20:13:32-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"root","message":"Unknown database 'edua0932_nutremfit'"}}
+{"ts":"2026-02-24T20:14:12-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/","ip":"::1"}}
+{"ts":"2026-02-24T20:14:12-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-24T20:14:12-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"root","message":"Unknown database 'edua0932_nutremfit'"}}
+{"ts":"2026-02-24T20:14:36-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/","ip":"::1"}}
+{"ts":"2026-02-24T20:14:36-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-24T20:14:36-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"root","message":"Unknown database 'edua0932_nutremfit'"}}
+{"ts":"2026-02-24T20:14:47-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/area-treinos","ip":"::1"}}
+{"ts":"2026-02-24T20:14:47-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-24T20:14:47-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"root","message":"Unknown database 'edua0932_nutremfit'"}}
+{"ts":"2026-02-24T20:14:49-03:00","msg":"php_error","context":{"severity":2,"message":"The use statement with non-compound name 'RuntimeException' has no effect","file":"C:\\xampp\\htdocs\\nfit3\\includes\\training_store.php","line":5}}
+{"ts":"2026-02-24T20:14:49-03:00","msg":"php_error","context":{"severity":2,"message":"The use statement with non-compound name 'Throwable' has no effect","file":"C:\\xampp\\htdocs\\nfit3\\includes\\training_store.php","line":6}}
+{"ts":"2026-02-24T20:14:49-03:00","msg":"area_guard: session without user_email","context":{"uri":"\/nfit3\/area-treinos"}}
+{"ts":"2026-02-24T20:15:08-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/area-treinos.php\/","ip":"::1"}}
+{"ts":"2026-02-24T20:15:08-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-24T20:15:08-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"root","message":"Unknown database 'edua0932_nutremfit'"}}
+{"ts":"2026-02-24T20:15:09-03:00","msg":"php_error","context":{"severity":2,"message":"The use statement with non-compound name 'RuntimeException' has no effect","file":"C:\\xampp\\htdocs\\nfit3\\includes\\training_store.php","line":5}}
+{"ts":"2026-02-24T20:15:09-03:00","msg":"php_error","context":{"severity":2,"message":"The use statement with non-compound name 'Throwable' has no effect","file":"C:\\xampp\\htdocs\\nfit3\\includes\\training_store.php","line":6}}
+{"ts":"2026-02-24T20:15:09-03:00","msg":"area_guard: session without user_email","context":{"uri":"\/nfit3\/area-treinos.php\/"}}
+{"ts":"2026-02-24T20:15:39-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/","ip":"::1"}}
+{"ts":"2026-02-24T20:15:39-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-24T20:15:39-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"root","message":"Unknown database 'edua0932_nutremfit'"}}
+{"ts":"2026-02-24T20:16:09-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/area-login","ip":"::1"}}
+{"ts":"2026-02-24T20:16:09-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-24T20:16:09-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"root","message":"Unknown database 'edua0932_nutremfit'"}}
+{"ts":"2026-02-24T20:17:13-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/area-login","ip":"::1"}}
+{"ts":"2026-02-24T20:17:13-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-24T20:17:13-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"root","message":"Unknown database 'edua0932_nutremfit'"}}
+{"ts":"2026-02-24T20:17:14-03:00","msg":"login: failed","context":{"email":"admin@teste.com"}}
+{"ts":"2026-02-24T20:17:47-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/","ip":"::1"}}
+{"ts":"2026-02-24T20:17:47-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-24T20:17:47-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"root","message":"Unknown database 'edua0932_nutremfit'"}}
+{"ts":"2026-02-24T20:18:11-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/area-login","ip":"::1"}}
+{"ts":"2026-02-24T20:18:11-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-24T20:18:11-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"root","message":"Unknown database 'edua0932_nutremfit'"}}
+{"ts":"2026-02-24T20:19:27-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/","ip":"::1"}}
+{"ts":"2026-02-24T20:19:27-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-24T20:19:27-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"root","message":"Unknown database 'edua0932_nutremfit'"}}
+{"ts":"2026-02-24T20:19:36-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/","ip":"::1"}}
+{"ts":"2026-02-24T20:19:36-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-24T20:19:36-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"root","message":"Unknown database 'edua0932_nutremfit'"}}
+{"ts":"2026-02-24T20:20:02-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/","ip":"::1"}}
+{"ts":"2026-02-24T20:20:02-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-24T20:20:02-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"root","message":"Unknown database 'edua0932_nutremfit'"}}
+{"ts":"2026-02-24T20:20:26-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/","ip":"::1"}}
+{"ts":"2026-02-24T20:20:26-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-24T20:20:26-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"root","message":"Unknown database 'edua0932_nutremfit'"}}
+{"ts":"2026-02-24T20:21:05-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/\/?v=1","ip":"::1"}}
+{"ts":"2026-02-24T20:21:05-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-24T20:21:05-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"root","message":"Unknown database 'edua0932_nutremfit'"}}
+{"ts":"2026-02-24T20:22:10-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/","ip":"::1"}}
+{"ts":"2026-02-24T20:22:10-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-24T20:22:10-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"root","message":"Unknown database 'edua0932_nutremfit'"}}
+{"ts":"2026-02-24T20:23:00-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/","ip":"::1"}}
+{"ts":"2026-02-24T20:23:00-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-24T20:23:00-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"root","message":"Unknown database 'edua0932_nutremfit'"}}
+{"ts":"2026-02-24T20:23:25-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/area-login","ip":"::1"}}
+{"ts":"2026-02-24T20:23:25-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-24T20:23:25-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"root","message":"Unknown database 'edua0932_nutremfit'"}}
+{"ts":"2026-02-24T20:23:51-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/area-login","ip":"::1"}}
+{"ts":"2026-02-24T20:23:51-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-24T20:23:51-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"root","message":"Unknown database 'edua0932_nutremfit'"}}
+{"ts":"2026-02-24T20:23:52-03:00","msg":"login: failed","context":{"email":"test1@nfit3.com"}}
+{"ts":"2026-02-24T20:24:27-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/area-login","ip":"::1"}}
+{"ts":"2026-02-24T20:24:27-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-24T20:24:27-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"root","message":"Unknown database 'edua0932_nutremfit'"}}
+{"ts":"2026-02-24T20:24:28-03:00","msg":"login: failed","context":{"email":"test1@nfit3.com"}}
+{"ts":"2026-02-24T20:24:34-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/area-treinos","ip":"::1"}}
+{"ts":"2026-02-24T20:24:34-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-24T20:24:34-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"root","message":"Unknown database 'edua0932_nutremfit'"}}
+{"ts":"2026-02-24T20:24:35-03:00","msg":"php_error","context":{"severity":2,"message":"The use statement with non-compound name 'RuntimeException' has no effect","file":"C:\\xampp\\htdocs\\nfit3\\includes\\training_store.php","line":5}}
+{"ts":"2026-02-24T20:24:35-03:00","msg":"php_error","context":{"severity":2,"message":"The use statement with non-compound name 'Throwable' has no effect","file":"C:\\xampp\\htdocs\\nfit3\\includes\\training_store.php","line":6}}
+{"ts":"2026-02-24T20:24:35-03:00","msg":"area_guard: session without user_email","context":{"uri":"\/nfit3\/area-treinos"}}
+{"ts":"2026-02-24T20:24:44-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/area","ip":"::1"}}
+{"ts":"2026-02-24T20:24:44-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-24T20:24:44-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"root","message":"Unknown database 'edua0932_nutremfit'"}}
+{"ts":"2026-02-24T20:24:45-03:00","msg":"area_guard: session without user_email","context":{"uri":"\/nfit3\/area"}}
+{"ts":"2026-02-24T20:24:49-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/area-treinos","ip":"::1"}}
+{"ts":"2026-02-24T20:24:49-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-24T20:24:49-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"root","message":"Unknown database 'edua0932_nutremfit'"}}
+{"ts":"2026-02-24T20:24:50-03:00","msg":"php_error","context":{"severity":2,"message":"The use statement with non-compound name 'RuntimeException' has no effect","file":"C:\\xampp\\htdocs\\nfit3\\includes\\training_store.php","line":5}}
+{"ts":"2026-02-24T20:24:50-03:00","msg":"php_error","context":{"severity":2,"message":"The use statement with non-compound name 'Throwable' has no effect","file":"C:\\xampp\\htdocs\\nfit3\\includes\\training_store.php","line":6}}
+{"ts":"2026-02-24T20:24:50-03:00","msg":"area_guard: session without user_email","context":{"uri":"\/nfit3\/area-treinos"}}
+{"ts":"2026-02-24T20:24:55-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/area-login","ip":"::1"}}
+{"ts":"2026-02-24T20:24:55-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-24T20:24:55-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"root","message":"Unknown database 'edua0932_nutremfit'"}}
+{"ts":"2026-02-24T20:25:20-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/area-admin-treinos","ip":"::1"}}
+{"ts":"2026-02-24T20:25:20-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-24T20:25:20-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"root","message":"Unknown database 'edua0932_nutremfit'"}}
+{"ts":"2026-02-24T20:25:21-03:00","msg":"php_error","context":{"severity":2,"message":"The use statement with non-compound name 'RuntimeException' has no effect","file":"C:\\xampp\\htdocs\\nfit3\\includes\\training_store.php","line":5}}
+{"ts":"2026-02-24T20:25:21-03:00","msg":"php_error","context":{"severity":2,"message":"The use statement with non-compound name 'Throwable' has no effect","file":"C:\\xampp\\htdocs\\nfit3\\includes\\training_store.php","line":6}}
+{"ts":"2026-02-24T20:25:21-03:00","msg":"area_guard: session without user_email","context":{"uri":"\/nfit3\/area-admin-treinos"}}
+{"ts":"2026-02-24T20:26:23-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/area-login","ip":"::1"}}
+{"ts":"2026-02-24T20:26:23-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-24T20:26:23-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"root","message":"Unknown database 'edua0932_nutremfit'"}}
+{"ts":"2026-02-24T20:51:28-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/","ip":"::1"}}
+{"ts":"2026-02-24T20:51:29-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-24T20:52:30-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/","ip":"::1"}}
+{"ts":"2026-02-24T20:52:30-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-24T20:52:49-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/area-login","ip":"::1"}}
+{"ts":"2026-02-24T20:52:49-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-24T20:52:49-03:00","msg":"php_exception","context":{"type":"mysqli_sql_exception","message":"Table 'edua0932_nutremfit.users' doesn't exist","file":"C:\\xampp\\htdocs\\nfit3\\includes\\user_store.php","line":90,"trace":"#0 C:\\xampp\\htdocs\\nfit3\\includes\\user_store.php(90): mysqli->prepare('SELECT * FROM u...')\n#1 C:\\xampp\\htdocs\\nfit3\\includes\\user_store.php(20): user_store_find('admin@nutremfit...')\n#2 C:\\xampp\\htdocs\\nfit3\\area-login.php(9): user_store_seed_admin_from_env()\n#3 {main}"}}
+{"ts":"2026-02-24T20:52:54-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/","ip":"::1"}}
+{"ts":"2026-02-24T20:52:54-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-24T20:53:22-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/","ip":"::1"}}
+{"ts":"2026-02-24T20:53:22-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-24T20:53:40-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/","ip":"::1"}}
+{"ts":"2026-02-24T20:53:40-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-24T20:55:30-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/","ip":"::1"}}
+{"ts":"2026-02-24T20:55:30-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-24T20:57:10-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/","ip":"::1"}}
+{"ts":"2026-02-24T20:57:10-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-24T20:59:37-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/","ip":"::1"}}
+{"ts":"2026-02-24T20:59:37-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-24T21:01:12-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/index.php\/area-login","ip":"::1"}}
+{"ts":"2026-02-24T21:01:12-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-24T21:01:12-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/index.php\/assets\/img\/bg\/home-bg.jpg","ip":"::1"}}
+{"ts":"2026-02-24T21:01:12-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/index.php\/assets\/css\/style.css","ip":"::1"}}
+{"ts":"2026-02-24T21:01:12-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/index.php\/assets\/bootstrap\/css\/bootstrap.min.css","ip":"::1"}}
+{"ts":"2026-02-24T21:01:12-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-24T21:01:12-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/index.php\/assets\/owlcarousel\/css\/owl.carousel.css","ip":"::1"}}
+{"ts":"2026-02-24T21:01:12-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-24T21:01:12-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/index.php\/assets\/fonts\/themify-icons.css","ip":"::1"}}
+{"ts":"2026-02-24T21:01:12-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/index.php\/assets\/fonts\/fontawesome.min.css","ip":"::1"}}
+{"ts":"2026-02-24T21:01:12-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-24T21:01:12-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-24T21:01:12-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/index.php\/assets\/owlcarousel\/css\/owl.theme.css","ip":"::1"}}
+{"ts":"2026-02-24T21:01:12-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-24T21:01:12-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/index.php\/assets\/css\/jquery-simple-mobilemenu.css","ip":"::1"}}
+{"ts":"2026-02-24T21:01:13-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/index.php\/assets\/css\/magnific-popup.css","ip":"::1"}}
+{"ts":"2026-02-24T21:01:13-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-24T21:01:13-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-24T21:01:13-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/index.php\/assets\/css\/animate.css","ip":"::1"}}
+{"ts":"2026-02-24T21:01:13-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-24T21:01:13-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-24T21:01:13-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/index.php\/assets\/js\/jquery-1.12.4.min.js","ip":"::1"}}
+{"ts":"2026-02-24T21:01:13-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-24T21:01:13-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/index.php\/assets\/img\/logo-top.png","ip":"::1"}}
+{"ts":"2026-02-24T21:01:13-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/index.php\/assets\/bootstrap\/js\/bootstrap.min.js","ip":"::1"}}
+{"ts":"2026-02-24T21:01:13-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/index.php\/assets\/img\/check.png","ip":"::1"}}
+{"ts":"2026-02-24T21:01:13-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/index.php\/assets\/img\/service1.png","ip":"::1"}}
+{"ts":"2026-02-24T21:01:13-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-24T21:01:13-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-24T21:01:13-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-24T21:01:13-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/index.php\/assets\/js\/modernizr-2.8.3.min.js","ip":"::1"}}
+{"ts":"2026-02-24T21:01:13-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-24T21:01:13-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/index.php\/assets\/js\/jquery-simple-mobilemenu.js","ip":"::1"}}
+{"ts":"2026-02-24T21:01:13-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/index.php\/assets\/js\/jquery.magnific-popup.min.js","ip":"::1"}}
+{"ts":"2026-02-24T21:01:13-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/index.php\/assets\/owlcarousel\/js\/owl.carousel.min.js","ip":"::1"}}
+{"ts":"2026-02-24T21:01:13-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-24T21:01:13-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-24T21:01:13-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/index.php\/assets\/js\/jquery.inview.min.js","ip":"::1"}}
+{"ts":"2026-02-24T21:01:13-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-24T21:01:13-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-24T21:01:13-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-24T21:01:13-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/index.php\/assets\/js\/ScrollTrigger.min.js","ip":"::1"}}
+{"ts":"2026-02-24T21:01:13-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/index.php\/assets\/js\/gsap.min.js","ip":"::1"}}
+{"ts":"2026-02-24T21:01:13-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-24T21:01:13-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-24T21:01:13-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-24T21:01:13-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/index.php\/assets\/js\/scrolltopcontrol.js","ip":"::1"}}
+{"ts":"2026-02-24T21:01:13-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/index.php\/assets\/js\/wow.min.js","ip":"::1"}}
+{"ts":"2026-02-24T21:01:13-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/index.php\/assets\/js\/superMarquee.min.js","ip":"::1"}}
+{"ts":"2026-02-24T21:01:13-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-24T21:01:13-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/index.php\/assets\/js\/scripts.js","ip":"::1"}}
+{"ts":"2026-02-24T21:01:13-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-24T21:01:13-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-24T21:01:13-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/index.php\/assets\/img\/service2.png","ip":"::1"}}
+{"ts":"2026-02-24T21:01:13-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/index.php\/assets\/img\/service3.png","ip":"::1"}}
+{"ts":"2026-02-24T21:01:13-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-24T21:01:13-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-24T21:01:13-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/index.php\/assets\/img\/personal.jpg","ip":"::1"}}
+{"ts":"2026-02-24T21:01:13-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/index.php\/assets\/img\/quote.png","ip":"::1"}}
+{"ts":"2026-02-24T21:01:13-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/index.php\/assets\/img\/logo.png","ip":"::1"}}
+{"ts":"2026-02-24T21:01:13-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-24T21:01:13-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-24T21:01:13-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-24T21:01:13-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-24T21:01:13-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/index.php\/assets\/img\/bg\/section-3.jpg","ip":"::1"}}
+{"ts":"2026-02-24T21:01:13-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-24T21:10:11-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/","ip":"::1"}}
+{"ts":"2026-02-24T21:10:11-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-24T21:10:22-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/","ip":"::1"}}
+{"ts":"2026-02-24T21:10:22-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-24T21:10:59-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/area-login","ip":"::1"}}
+{"ts":"2026-02-24T21:10:59-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-24T21:10:59-03:00","msg":"seed_admin_created","context":{"email":"admin@nutremfit.com"}}
+{"ts":"2026-02-24T21:11:17-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/area-login","ip":"::1"}}
+{"ts":"2026-02-24T21:11:17-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-24T21:11:17-03:00","msg":"login: success","context":{"email":"teste@exemplo.com"}}
+{"ts":"2026-02-24T21:11:25-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/area-treinos","ip":"::1"}}
+{"ts":"2026-02-24T21:11:25-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-24T21:11:25-03:00","msg":"php_error","context":{"severity":2,"message":"The use statement with non-compound name 'RuntimeException' has no effect","file":"C:\\xampp\\htdocs\\nfit3\\includes\\training_store.php","line":5}}
+{"ts":"2026-02-24T21:11:25-03:00","msg":"php_error","context":{"severity":2,"message":"The use statement with non-compound name 'Throwable' has no effect","file":"C:\\xampp\\htdocs\\nfit3\\includes\\training_store.php","line":6}}
+{"ts":"2026-02-24T21:11:25-03:00","msg":"area_guard: autoprovision_subscription","context":{"user_id":1,"email":"teste@exemplo.com","plan":"essencial","created":true}}
+{"ts":"2026-02-24T21:11:37-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/area-login","ip":"::1"}}
+{"ts":"2026-02-24T21:11:37-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-24T21:11:57-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/area","ip":"::1"}}
+{"ts":"2026-02-24T21:11:57-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-24T21:12:08-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/area","ip":"::1"}}
+{"ts":"2026-02-24T21:12:08-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-24T21:12:26-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/area","ip":"::1"}}
+{"ts":"2026-02-24T21:12:26-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-24T21:13:12-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/area","ip":"::1"}}
+{"ts":"2026-02-24T21:13:12-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-24T21:13:57-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/area","ip":"::1"}}
+{"ts":"2026-02-24T21:13:57-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-24T21:14:55-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/area-login","ip":"::1"}}
+{"ts":"2026-02-24T21:14:55-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-24T21:15:09-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/formulario-inicial","ip":"::1"}}
+{"ts":"2026-02-24T21:15:09-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-24T21:15:09-03:00","msg":"area_guard: session without user_email","context":{"uri":"\/nfit3\/formulario-inicial"}}
+{"ts":"2026-02-24T21:15:53-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/area","ip":"::1"}}
+{"ts":"2026-02-24T21:15:53-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-24T21:15:53-03:00","msg":"area_guard: session without user_email","context":{"uri":"\/nfit3\/area"}}
+{"ts":"2026-02-24T21:15:57-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/area-login","ip":"::1"}}
+{"ts":"2026-02-24T21:15:57-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-24T21:16:10-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/area-login","ip":"::1"}}
+{"ts":"2026-02-24T21:16:10-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-24T21:16:10-03:00","msg":"login: success","context":{"email":"teste@exemplo.com"}}
+{"ts":"2026-02-24T21:16:14-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/area","ip":"::1"}}
+{"ts":"2026-02-24T21:16:14-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-24T21:16:39-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/area","ip":"::1"}}
+{"ts":"2026-02-24T21:16:39-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-24T21:17:58-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/area","ip":"::1"}}
+{"ts":"2026-02-24T21:17:58-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-24T21:18:10-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/area-treinos","ip":"::1"}}
+{"ts":"2026-02-24T21:18:10-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-24T21:18:10-03:00","msg":"php_error","context":{"severity":2,"message":"The use statement with non-compound name 'RuntimeException' has no effect","file":"C:\\xampp\\htdocs\\nfit3\\includes\\training_store.php","line":5}}
+{"ts":"2026-02-24T21:18:10-03:00","msg":"php_error","context":{"severity":2,"message":"The use statement with non-compound name 'Throwable' has no effect","file":"C:\\xampp\\htdocs\\nfit3\\includes\\training_store.php","line":6}}
+{"ts":"2026-02-24T21:18:27-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/formulario-inicial","ip":"::1"}}
+{"ts":"2026-02-24T21:18:27-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-24T21:18:42-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/area","ip":"::1"}}
+{"ts":"2026-02-24T21:18:42-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-24T21:18:42-03:00","msg":"area_guard: session without user_email","context":{"uri":"\/nfit3\/area"}}
+{"ts":"2026-02-24T21:19:09-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/area","ip":"::1"}}
+{"ts":"2026-02-24T21:19:09-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-24T21:20:35-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/area","ip":"::1"}}
+{"ts":"2026-02-24T21:20:35-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-24T21:20:46-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/formulario-inicial","ip":"::1"}}
+{"ts":"2026-02-24T21:20:46-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-24T21:23:19-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/area","ip":"::1"}}
+{"ts":"2026-02-24T21:23:19-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-24T21:23:39-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/area","ip":"::1"}}
+{"ts":"2026-02-24T21:23:39-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-24T21:26:26-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/","ip":"::1"}}
+{"ts":"2026-02-24T21:26:27-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-24T21:27:34-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/area-login","ip":"::1"}}
+{"ts":"2026-02-24T21:27:34-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-24T21:29:38-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/area-login","ip":"::1"}}
+{"ts":"2026-02-24T21:29:38-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-24T21:36:54-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/area-login","ip":"::1"}}
+{"ts":"2026-02-24T21:36:54-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-24T21:36:54-03:00","msg":"login: success","context":{"email":"teste@exemplo.com"}}
+{"ts":"2026-02-24T21:37:05-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/area-login","ip":"::1"}}
+{"ts":"2026-02-24T21:37:05-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-24T21:37:05-03:00","msg":"login: success","context":{"email":"teste@exemplo.com"}}
+{"ts":"2026-02-24T21:37:36-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/area-login","ip":"::1"}}
+{"ts":"2026-02-24T21:37:36-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-24T21:40:54-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/area-login","ip":"::1"}}
+{"ts":"2026-02-24T21:40:54-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-24T21:41:30-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/area-login","ip":"::1"}}
+{"ts":"2026-02-24T21:41:30-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-24T21:43:55-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/area-login","ip":"::1"}}
+{"ts":"2026-02-24T21:43:55-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-24T21:43:55-03:00","msg":"login: success","context":{"email":"teste@exemplo.com"}}
+{"ts":"2026-02-24T21:45:43-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/area-treinos","ip":"::1"}}
+{"ts":"2026-02-24T21:45:43-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-24T21:45:43-03:00","msg":"php_error","context":{"severity":2,"message":"The use statement with non-compound name 'RuntimeException' has no effect","file":"C:\\xampp\\htdocs\\nfit3\\includes\\training_store.php","line":5}}
+{"ts":"2026-02-24T21:45:43-03:00","msg":"php_error","context":{"severity":2,"message":"The use statement with non-compound name 'Throwable' has no effect","file":"C:\\xampp\\htdocs\\nfit3\\includes\\training_store.php","line":6}}
+{"ts":"2026-02-24T21:48:53-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/area-login","ip":"::1"}}
+{"ts":"2026-02-24T21:48:53-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-24T21:49:19-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/area-login","ip":"::1"}}
+{"ts":"2026-02-24T21:49:19-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-24T21:52:49-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/area-login","ip":"::1"}}
+{"ts":"2026-02-24T21:52:49-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-24T21:53:08-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/","ip":"::1"}}
+{"ts":"2026-02-24T21:53:08-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-24T21:56:04-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/area-login","ip":"::1"}}
+{"ts":"2026-02-24T21:56:04-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-24T21:59:49-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/area-login","ip":"::1"}}
+{"ts":"2026-02-24T21:59:49-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-24T21:59:49-03:00","msg":"login: success","context":{"email":"teste@exemplo.com"}}
+{"ts":"2026-02-24T22:03:14-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/area-login","ip":"::1"}}
+{"ts":"2026-02-24T22:03:14-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-24T22:03:34-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/area-login","ip":"::1"}}
+{"ts":"2026-02-24T22:03:34-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-24T22:03:46-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/area-treinos","ip":"::1"}}
+{"ts":"2026-02-24T22:03:46-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-24T22:03:46-03:00","msg":"php_error","context":{"severity":2,"message":"The use statement with non-compound name 'RuntimeException' has no effect","file":"C:\\xampp\\htdocs\\nfit3\\includes\\training_store.php","line":5}}
+{"ts":"2026-02-24T22:03:46-03:00","msg":"php_error","context":{"severity":2,"message":"The use statement with non-compound name 'Throwable' has no effect","file":"C:\\xampp\\htdocs\\nfit3\\includes\\training_store.php","line":6}}
+{"ts":"2026-02-24T22:40:25-03:00","msg":"bootstrap_loaded","context":{"uri":"\/nfit3\/","ip":"::1"}}
+{"ts":"2026-02-24T22:40:25-03:00","msg":"db_connect_error","context":{"host":"localhost","user":"edua0932_edu","message":"Access denied for user 'edua0932_edu'@'localhost' (using password: YES)"}}
+{"ts":"2026-02-25T14:42:36-03:00","msg":"bootstrap_loaded","context":{"uri":"","ip":""}}
+{"ts":"2026-02-25T14:42:53-03:00","msg":"bootstrap_loaded","context":{"uri":"","ip":""}}
+{"ts":"2026-02-25T14:58:35-03:00","msg":"bootstrap_loaded","context":{"uri":"","ip":""}}
+{"ts":"2026-02-25T15:01:59-03:00","msg":"bootstrap_loaded","context":{"uri":"","ip":""}}
+{"ts":"2026-02-25T15:11:30-03:00","msg":"bootstrap_loaded","context":{"uri":"","ip":""}}

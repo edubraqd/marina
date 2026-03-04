@@ -1,0 +1,28 @@
+{
+    "title": "Treino Fict\u00edcio UX",
+    "instructions": "Teste das anima\u00e7\u00f5es Pro Max",
+    "exercises": [
+        {
+            "name": "Supino Inclinado (Halteres)",
+            "cues": "{\"series\":\"4\",\"reps\":\"10-12\",\"load\":\"\",\"notes\":\"Contraia o peitoral\",\"order\":\"1\"}",
+            "sheet_idx": "sheet1",
+            "sheet_title": "Ficha A - Peito",
+            "video_url": "https:\/\/youtube.com"
+        },
+        {
+            "name": "Crucifixo M\u00e1quina",
+            "cues": "{\"series\":\"3\",\"reps\":\"15\",\"load\":\"\",\"notes\":\"Foco no alongamento\",\"order\":\"2\"}",
+            "sheet_idx": "sheet1",
+            "sheet_title": "Ficha A - Peito",
+            "video_url": ""
+        },
+        {
+            "name": "Tr\u00edceps Corda",
+            "cues": "{\"series\":\"4\",\"reps\":\"falha\",\"load\":\"\",\"notes\":\"\",\"order\":\"3\"}",
+            "sheet_idx": "sheet1",
+            "sheet_title": "Ficha A - Peito",
+            "video_url": ""
+        }
+    ],
+    "updated_at": "2026-02-25 01:09:51"
+}
